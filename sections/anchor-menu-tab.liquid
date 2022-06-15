@@ -1,0 +1,166 @@
+<div class="jb-product-collateral jb-stikcy-container">
+<div class="tab-title">
+		<div class="container">
+          
+			<nav id="desktop-nav">
+			    <ul>
+				
+                  
+			      <li class="tab-title-inner">
+                    <a href="#tab1" class="page-scroll">
+                    	{% if section.settings.title1 != blank %}
+        {{ section.settings.title1 }}
+	  {% endif %}
+                    </a>
+                  </li>
+                
+                  
+			      <li class="tab-title-inner">
+                    <a href="#tab2" class="page-scroll">
+                      {% if section.settings.title2 != blank %}
+        {{ section.settings.title2 }}
+	  {% endif %}
+                    </a>
+                  </li>
+                  
+                  
+			      <li class="tab-title-inner">
+                    <a href="#tab3" class="page-scroll">
+                      {% if section.settings.title3 != blank %}
+        {{ section.settings.title3 }}
+	  {% endif %}
+                    </a>
+                  </li>
+                  
+                  
+			      <li class="tab-title-inner">
+                    <a href="#tab4" class="page-scroll">
+                      {% if section.settings.title4 != blank %}
+        {{ section.settings.title4 }}
+	  {% endif %}
+                    </a>
+                  </li>
+                  
+                  
+				  <li class="tab-title-inner">
+                    <a href="#tab5" class="page-scroll">
+                      {% if section.settings.title5 != blank %}
+        {{ section.settings.title5 }}
+	  {% endif %}
+                    </a>
+                  </li>	                  
+                  
+			    </ul>
+			</nav>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+jQuery(function($){
+	var topMenuHeight = $("#desktop-nav").outerHeight();
+	$("#desktop-nav").menuScroll(topMenuHeight);
+});
+
+// COPY THE FOLLOWING FUNCTION INTO ANY SCRIPTS
+jQuery.fn.extend({
+    menuScroll: function(offset) {
+		// Declare all global variables
+        var topMenu = this;
+		var topOffset = offset ? offset : 0;
+        var menuItems = $(topMenu).find("a");
+        var lastId;
+	
+		// Save all menu items into scrollItems array
+        var scrollItems = $(menuItems).map(function() {
+            var item = $($(this).attr("href"));
+            if (item.length) {
+                return item;
+            }
+        });
+
+		// When the menu item is clicked, get the #id from the href value, then scroll to the #id element
+        $(topMenu).on("click", "a", function(e){
+            var href = $(this).attr("href");
+            
+            var offsetTop = href === "#" ? 0 : $(href).offset().top-topOffset;
+
+            $('html, body').stop().animate({ 
+                scrollTop: offsetTop
+            }, 300);
+            e.preventDefault();
+
+        });
+		
+		// When page is scrolled
+        $(window).scroll(function(){
+            var nm = $("html").scrollTop();
+            var nw = $("body").scrollTop();
+            var fromTop = (nm > nw ? nm : nw)+topOffset;
+
+			
+			// When the page pass one #id section, return all passed sections to scrollItems and save them into new array current
+            var current = $(scrollItems).map(function(){
+                if ($(this).offset().top <= fromTop)
+                return this;
+            });
+			
+			// Get the most recent passed section from current array
+            current = current[current.length-1];
+            var id = current && current.length ? current[0].id : "";
+            if (lastId !== id) {
+                lastId = id;
+                // Set/remove active class
+                $(menuItems)
+                .parent().removeClass("active")
+                .end().filter("[href='#"+id+"']").parent().addClass("active");
+            }      
+
+        });
+    }
+});
+</script>
+{% schema %}
+  {
+    "name": "Anchor Menu Tab",
+    "settings": [
+	{
+      "type": "text",
+      "id": "title1",
+      "label": "Title 1"
+    },
+	{
+      "type": "text",
+      "id": "title2",
+      "label": "Title 2"
+    },
+	{
+      "type": "text",
+      "id": "title3",
+      "label": "Title 3"
+    },
+	{
+      "type": "text",
+      "id": "title4",
+      "label": "Title 4"
+    },
+	{
+      "type": "text",
+      "id": "title5",
+      "label": "Title 5"
+    }
+	],
+  "presets": [
+    {
+      "category": "Advanced",
+      "name": "Anchor Menu Tab"
+			
+    }
+  ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

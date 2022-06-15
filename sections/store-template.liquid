@@ -1,0 +1,68 @@
+{% comment %} STORE Template {% endcomment %}
+
+
+<div id="users">
+  <input class="search" placeholder="Search" />
+  <button class="sort" data-sort="name">
+    Sort by name
+  </button>
+  <table>
+    <!-- IMPORTANT, class="list" have to be at tbody -->
+    <th class="theader">Nombre</th>
+    <th class="theader">Dirección</th>
+    <th class="theader">C.P.</th>
+    <th class="theader">Localidad</th>
+    <th class="theader">Provincia</th>
+    <th class="theader">Teléfono</th>
+    <tbody class="list">
+    </tbody>
+  </table>
+	<ul class="pagination"></ul>
+</div>
+<script src="//cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js"></script>
+{{ 'bdfarmacia.js' | asset_url | script_tag}}
+
+
+{% schema %}
+{
+	"name": "STORE",
+	"settings": [
+		{
+			"type": "checkbox",
+			"id": "hide_title",
+			"label": "Hide page title",
+			"default": false
+		},
+		{
+			"type": "text",
+			"id": "title",
+			"label": "Heading"
+		},
+		{
+			"type": "text",
+			"id": "subheading",
+			"label": "Subheading"
+		}
+	],
+	"blocks": [
+		{
+			"name": "Item",
+			"type": "item",
+			"settings": [
+				{
+					"type": "text",
+					"id": "title",
+					"label": "Question",
+					"default": "Question"
+				},
+				{
+					"type": "richtext",
+					"id": "answer",
+					"label": "Answer",
+					"default": "<p>Use this answer block to discuss some commonly asked questions you've discovered from your customers interactions. You could discuss product details, size fit, shipping policies, or anything you think would help merchants make an informed decision about your product or collection. This section will appear across all products.</p>"
+				}
+			]
+		}
+	]
+}
+{% endschema %}

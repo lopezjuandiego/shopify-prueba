@@ -1,0 +1,19 @@
+<div>
+  
+		<section class="page-title container-wrap">
+			<div class="container">
+				<h1>{{ page.title }}</h1>
+			</div>
+		</section>
+	
+
+	{%- if page.content != blank -%}
+		<div class="container-wrap">
+			<div class="container content-about text-content row">
+				<div class="row row-sm rte">
+					{{- page.content -}}
+				</div>
+			</div>
+		</div>
+	{%- endif %}
+</div>

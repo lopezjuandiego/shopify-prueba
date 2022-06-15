@@ -1,0 +1,8 @@
+{% if product.metafields.custom_fields["tab_2_body_2"] != blank %}
+  <div class="custom-field custom-field__tab-2-body-2 custom-field__type--html">
+    <h3 class="custom-field--title">Tab 2 body 2</h3>
+    <div class="custom-field--value">
+      {{ product.metafields.custom_fields["tab_2_body_2"] }}
+    </div>
+  </div>
+{% endif %}

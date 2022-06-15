@@ -1,0 +1,3375 @@
+{
+  "current": {
+    "color_heading_new": "#000000",
+    "color_text_new": "#000000",
+    "color_error_new": "#d02e2e",
+    "color_border_new": "#e4e4e4",
+    "color_background_new": "#ffffff",
+    "color_button_primary_bg": "#d02e2e",
+    "color_button_secondary_bg": "#ffffff",
+    "color_top_bar": "#3cbe8a",
+    "color_header_bg_home": "#ffffff",
+    "color_header_text_home": "#222222",
+    "color_header_bg": "#ffffff",
+    "header_icon_color_home": "#fff",
+    "color_badge_bg": "#2e3234",
+    "color_footer_text": "#ffffff",
+    "color_footer_bg": "#e73439",
+    "color_bottom_bar_bg": "#e73439",
+    "accent_line": "none",
+    "transition_grid_items": true,
+    "transition_images_fade": true,
+    "transition_collections_list": true,
+    "enable_infinity_scroll": true,
+    "show_search": true,
+    "search_type": "product,page",
+    "image_aspect_ratio": 1,
+    "image_size": "cover",
+    "show_quick_view": false,
+    "show_quick_view_description": false,
+    "price_swatches_hover": false,
+    "show_quantity": true,
+    "hover_image": false,
+    "enable_payment_button": false,
+    "enable_variant_boxes": true,
+    "enable_color_swatches": true,
+    "color_swatches_style": "circle",
+    "product_badge_style": "rectangle",
+    "products_rows": 4,
+    "products_columns": 4,
+    "enable_video_looping": true,
+    "enable_ajax_cart": true,
+    "enable_cart_order_notes": false,
+    "show_continue_shopping": true,
+    "tax_text": "Entrega estimada en el siguiente paso",
+    "enable_accept_terms": false,
+    "show_breadcrumbs": true,
+    "show_reviews": true,
+    "enable_yotpo": false,
+    "yotpo_ID": "",
+    "favicon": "shopify:\/\/shop_images\/fortepharmafc.png",
+    "twitter_url": "",
+    "facebook_url": "https:\/\/www.facebook.com\/fortepharmaESP",
+    "pinterest_url": "",
+    "instagram_url": "https:\/\/instagram.com\/fortepharmaesp",
+    "tumblr_url": "",
+    "youtube_url": "https:\/\/www.youtube.com\/channel\/UC-OZhWGhLg2GczujKBkxmLQ",
+    "rss_url": "",
+    "share_on_twitter": false,
+    "share_on_facebook": false,
+    "share_on_pinterest": false,
+    "checkout_header_image": "",
+    "checkout_logo_image": "shopify:\/\/shop_images\/logoRJ.jpg",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#ffffff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "Roboto",
+    "checkout_body_font": "Roboto",
+    "checkout_accent_color": "#e32c2b",
+    "checkout_button_color": "#e32c2b",
+    "checkout_error_color": "#e32c2b",
+    "type_heading_font": "harmonia_sans_n7",
+    "type_heading_letter_spacing": 0,
+    "base_font_size": 14,
+    "type_base_font": "rubik_n4",
+    "body_font_size": 14,
+    "type_base_letter_spacing": 0,
+    "twitter_via": "",
+    "sections": {
+      "announcement": {
+        "type": "announcement",
+        "settings": {
+          "show_announcement": true,
+          "show_announcement_on_mobile": false,
+          "text": "<p>Envíos sin cargo en pedidos mayores a 45 euros!<\/p>",
+          "link": "shopify:\/\/products\/turbodraine"
+        }
+      },
+      "popup": {
+        "type": "popup",
+        "settings": {
+          "show_popup": "disabled",
+          "popup_position": "right",
+          "popup_header": "Use the popup to catch emails and showcase promotions",
+          "popup_content": "<p>Popups can detract from a user's experience, so try to limit how often they appear.<\/p>",
+          "text_alignment": "center",
+          "show_popup_newsletter": true,
+          "popup_delay": 5,
+          "popup_reappear_time": "7"
+        }
+      },
+      "header": {
+        "type": "header",
+        "blocks": {
+          "4d717add-8b43-4c40-9343-bc8a8cc45bae": {
+            "type": "submenu_icon_SVG",
+            "settings": {
+              "enable_menu_icon_svg_tag": true,
+              "svg_icon_name": "header_minceur",
+              "menu_icon_svg_tag": "CONTROL DE PESO Y ELIMINACIÓN LIQUIDOS",
+              "menu_view_all_button_text_svg": "",
+              "menu_view_all_button_link_svg": ""
+            }
+          },
+          "75ac2d73-9361-4b21-80e2-e3d03d98c535": {
+            "type": "submenu_icon_SVG",
+            "settings": {
+              "enable_menu_icon_svg_tag": true,
+              "svg_icon_name": "header_transit",
+              "menu_icon_svg_tag": "DETOX",
+              "menu_view_all_button_text_svg": "",
+              "menu_view_all_button_link_svg": ""
+            }
+          },
+          "7c62cd1e-fb9b-4ea3-a370-bd12b2c9a4ca": {
+            "type": "submenu_icon_SVG",
+            "settings": {
+              "enable_menu_icon_svg_tag": true,
+              "svg_icon_name": "header_defenses",
+              "menu_icon_svg_tag": "SALUD DE LA PIEL Y ANTIEDAD",
+              "menu_view_all_button_text_svg": "Ver todo",
+              "menu_view_all_button_link_svg": "shopify:\/\/blogs\/lutter-contre-la-fatigue"
+            }
+          },
+          "2bc453f9-a050-4320-9ec3-7152883993f5": {
+            "type": "submenu_icon_SVG",
+            "settings": {
+              "enable_menu_icon_svg_tag": true,
+              "svg_icon_name": "header_beaute",
+              "menu_icon_svg_tag": "CABELLO Y UÑAS",
+              "menu_view_all_button_text_svg": "",
+              "menu_view_all_button_link_svg": ""
+            }
+          },
+          "22a74cf4-0f73-4637-b77b-6e5527bd66e9": {
+            "type": "submenu_icon_SVG",
+            "settings": {
+              "enable_menu_icon_svg_tag": true,
+              "svg_icon_name": "header_sommeil",
+              "menu_icon_svg_tag": "SUEÑO Y ESTRÉS",
+              "menu_view_all_button_text_svg": "",
+              "menu_view_all_button_link_svg": ""
+            }
+          },
+          "45d954fd-7dd3-433a-85a2-d7b022dc05c2": {
+            "type": "submenu_icon_SVG",
+            "settings": {
+              "enable_menu_icon_svg_tag": true,
+              "svg_icon_name": "header_sante",
+              "menu_icon_svg_tag": "ARTICULACIONES, MUSCULOS Y HUESOS",
+              "menu_view_all_button_text_svg": "",
+              "menu_view_all_button_link_svg": ""
+            }
+          },
+          "5b1a5319-7db8-4483-875b-b9991e923eb2": {
+            "type": "submenu_icon_SVG",
+            "settings": {
+              "enable_menu_icon_svg_tag": true,
+              "svg_icon_name": "header_defenses",
+              "menu_icon_svg_tag": "DEFENSAS E INMUNIDAD",
+              "menu_view_all_button_text_svg": "",
+              "menu_view_all_button_link_svg": ""
+            }
+          },
+          "c0c23e29-524a-4ecf-aae1-5ecdac211a95": {
+            "type": "submenu_icon_SVG",
+            "settings": {
+              "enable_menu_icon_svg_tag": true,
+              "svg_icon_name": "header_transit",
+              "menu_icon_svg_tag": "PROBIÓTICOS",
+              "menu_view_all_button_text_svg": "",
+              "menu_view_all_button_link_svg": ""
+            }
+          },
+          "fdbfb17f-623c-4341-86d8-62256ab6dfa1": {
+            "type": "submenu_icon_SVG",
+            "settings": {
+              "enable_menu_icon_svg_tag": true,
+              "svg_icon_name": "header_transit",
+              "menu_icon_svg_tag": "BIENESTAR DIGESTIVO",
+              "menu_view_all_button_text_svg": "",
+              "menu_view_all_button_link_svg": ""
+            }
+          },
+          "ce14fe3b-9bde-4035-a89b-7febd9ac288c": {
+            "type": "submenu_icon_SVG",
+            "settings": {
+              "enable_menu_icon_svg_tag": true,
+              "svg_icon_name": "header_energie",
+              "menu_icon_svg_tag": "VITALIDAD Y ENERGIA",
+              "menu_view_all_button_text_svg": "",
+              "menu_view_all_button_link_svg": ""
+            }
+          },
+          "8674cd78-2dd5-46c4-ae44-6f0b15265122": {
+            "type": "submenu_icon_SVG",
+            "settings": {
+              "enable_menu_icon_svg_tag": true,
+              "svg_icon_name": "header_defenses",
+              "menu_icon_svg_tag": "APARATO RESPIRATORIO, GARGANTA Y NARIZ",
+              "menu_view_all_button_text_svg": "",
+              "menu_view_all_button_link_svg": ""
+            }
+          }
+        },
+        "block_order": [
+          "4d717add-8b43-4c40-9343-bc8a8cc45bae",
+          "75ac2d73-9361-4b21-80e2-e3d03d98c535",
+          "7c62cd1e-fb9b-4ea3-a370-bd12b2c9a4ca",
+          "2bc453f9-a050-4320-9ec3-7152883993f5",
+          "22a74cf4-0f73-4637-b77b-6e5527bd66e9",
+          "45d954fd-7dd3-433a-85a2-d7b022dc05c2",
+          "5b1a5319-7db8-4483-875b-b9991e923eb2",
+          "c0c23e29-524a-4ecf-aae1-5ecdac211a95",
+          "fdbfb17f-623c-4341-86d8-62256ab6dfa1",
+          "ce14fe3b-9bde-4035-a89b-7febd9ac288c",
+          "8674cd78-2dd5-46c4-ae44-6f0b15265122"
+        ],
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/New_Logo_Forte_Pharma_Reig_SP_2021_121020_Vect_1_-ai_1.png",
+          "logo_other": "shopify:\/\/shop_images\/New_Logo_Forte_Pharma_Reig_SP_2021_121020_Vect_1_-ai_1.png",
+          "logo_max_width": 220,
+          "show_site_name": false,
+          "menu_list": "main-menu",
+          "links_position": "links_center",
+          "logo_position": "logo_left",
+          "header_button_text": "Servicio de Nutrición Online GRATUITO",
+          "header_button_text_link": "https:\/\/sdo.yoelijocuidarme.es\/?utm_source=TiendaFortePharma&utm_medium=mainmenu",
+          "image_aspect_ratio": 0.9,
+          "meganav_image_heading": "",
+          "meganav_image_link": ""
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "65f367d1-2ad7-4db8-b460-9fcad5b0cd81": {
+            "type": "logo",
+            "settings": {
+              "logo_width": 180,
+              "mobile_hide_block": true
+            }
+          },
+          "d9c3c823-93df-4d15-abb3-22917c75841a": {
+            "type": "menu",
+            "settings": {
+              "menu": "",
+              "title": "Necesidades",
+              "mobile_hide_block": false
+            }
+          },
+          "7633534d-6c8b-4ea5-bf1a-eac204de44d4": {
+            "type": "menu",
+            "settings": {
+              "menu": "",
+              "title": "Información",
+              "mobile_hide_block": false
+            }
+          },
+          "footer-block-menu": {
+            "type": "menu",
+            "settings": {
+              "menu": "",
+              "title": "Mi Cuenta",
+              "mobile_hide_block": false
+            }
+          },
+          "footer-block-text": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "text": "<p><strong>Laboratoires Forté Pharma<\/strong><\/p>",
+              "mobile_hide_block": false
+            }
+          }
+        },
+        "block_order": [
+          "65f367d1-2ad7-4db8-b460-9fcad5b0cd81",
+          "d9c3c823-93df-4d15-abb3-22917c75841a",
+          "7633534d-6c8b-4ea5-bf1a-eac204de44d4",
+          "footer-block-menu",
+          "footer-block-text"
+        ],
+        "settings": {
+          "show_payment_icons": true,
+          "show_social_icons": true,
+          "menu": "",
+          "show_locale_selector": false,
+          "show_currency_selector": false
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "product_layout": "slideshow",
+          "image_size": "medium",
+          "add_cart_position": "bottom",
+          "lightbox": true,
+          "show_vendor": false,
+          "show_quantity": true,
+          "show_cart_bar": true,
+          "enable_payment_button": false,
+          "show_newsletter": false,
+          "text_newsletter": "<p>Notify me when this product is available:<\/p>",
+          "enable_tabs_h6": false,
+          "page_tab_1": "",
+          "page_tab_2": "",
+          "page_tab_3": "",
+          "product_slideshow_dots": false,
+          "product_slideshow_arrows": false,
+          "enable_video_looping": false
+        }
+      },
+      "list-collections-page-template": {
+        "type": "list-collections-page-template",
+        "settings": {
+          "show_description": true,
+          "collections_columns": 2,
+          "coll_text_position": "center",
+          "button_text": "Descubrir",
+          "button_style": "primary",
+          "text_color": "#ffffff",
+          "overlay_color": "#222222",
+          "overlay_opacity": 10
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "show_blog_name": true,
+          "show_rss": false,
+          "show_featured_post": false,
+          "tags": false,
+          "author": false,
+          "date": false,
+          "show_comments": false,
+          "image_aspect_ratio": 0.6,
+          "article_rows": 4,
+          "article_columns": 4
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "show_title": true,
+          "show_sort_filter": true,
+          "filter_mode": "group",
+          "position_filters": "top",
+          "show_banner": false,
+          "banner_height": "original-height",
+          "banner_text_position": "center",
+          "banner_color_text": "#e32c2b",
+          "banner_color_overlay": "#000000",
+          "banner_overlay_opacity": 40,
+          "show_featured_image": false,
+          "featured_image": "shopify:\/\/shop_images\/collection_featured_background.png",
+          "featured_heading": "SU DIAGNÓSTICO",
+          "featured_text": "<p>Le ofrecemos una plataforma donde distintos <strong>coaches<\/strong> se ponen a su disposición.<\/p>",
+          "featured_button_text": "Iniciar diagnóstico",
+          "featured_button_link": "https:\/\/sdo.yoelijocuidarme.es\/?utm_source=TiendaFortePharma&utm_medium=mainmenu",
+          "featured_button_style": "secondary",
+          "featured_color_text": "#ffffff",
+          "featured_color_overlay": "#e35252",
+          "featured_overlay_opacity": 0
+        }
+      },
+      "slideshow": {
+        "type": "slideshow",
+        "blocks": {
+          "slideshow-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/cara.jpg",
+              "image_mobile": "shopify:\/\/shop_images\/cara.jpg",
+              "image_position": "center-center",
+              "alignment": "left",
+              "color_style": "white",
+              "subheading": "",
+              "title": "BRÛLACTIV FORT",
+              "text": "",
+              "cta": "Ver nuestros productos",
+              "link": "shopify:\/\/products\/brulactiv-fort",
+              "cta_primary_btn_style": "secondary",
+              "cta_2": "",
+              "link_2": "",
+              "cta_secondary_btn_style": "secondary",
+              "overlay_color": "#ffffff",
+              "overlay_opacity": 0
+            }
+          },
+          "02985c5b-3da4-4d44-b8f4-a8a7a43469d0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/slim.jpg",
+              "image_mobile": "shopify:\/\/shop_images\/slim.jpg",
+              "image_position": "center-center",
+              "alignment": "left",
+              "color_style": "white",
+              "subheading": "",
+              "title": "SLIM DRENANTE",
+              "text": "",
+              "cta": "Ver nuestros productos",
+              "link": "shopify:\/\/products\/slim-drenante-pina",
+              "cta_primary_btn_style": "secondary",
+              "cta_2": "",
+              "link_2": "",
+              "cta_secondary_btn_style": "secondary",
+              "overlay_color": "#ffffff",
+              "overlay_opacity": 0
+            }
+          },
+          "ca46e860-3ec8-4af6-a171-6d12b8db24a9": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "image_position": "center-center",
+              "alignment": "left",
+              "color_style": "white",
+              "subheading": "",
+              "title": "Ahora, hazlo por ti!",
+              "text": "",
+              "cta": "Ver nuestros productos",
+              "link": "shopify:\/\/collections\/control-de-peso-y-eliminacion-de-liquidos",
+              "cta_primary_btn_style": "secondary",
+              "cta_2": "",
+              "link_2": "",
+              "cta_secondary_btn_style": "secondary",
+              "overlay_color": "#ffffff",
+              "overlay_opacity": 0
+            }
+          },
+          "447fd48e-5d8b-4e74-ac90-d223ccbf97d4": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "image_position": "center-center",
+              "alignment": "left",
+              "color_style": "white",
+              "subheading": "",
+              "title": "Ahora, cumple tus sueños",
+              "text": "",
+              "cta": "Ver nuestros productos",
+              "link": "shopify:\/\/products\/forte-noche-gummies",
+              "cta_primary_btn_style": "secondary",
+              "cta_2": "",
+              "link_2": "",
+              "cta_secondary_btn_style": "secondary",
+              "overlay_color": "#ffffff",
+              "overlay_opacity": 0
+            }
+          }
+        },
+        "block_order": [
+          "slideshow-0",
+          "02985c5b-3da4-4d44-b8f4-a8a7a43469d0",
+          "ca46e860-3ec8-4af6-a171-6d12b8db24a9",
+          "447fd48e-5d8b-4e74-ac90-d223ccbf97d4"
+        ],
+        "settings": {
+          "showNavArrows": true,
+          "show_arrow_down": false,
+          "autoplay": true,
+          "duration": 4,
+          "transition": "fade",
+          "dots_position": "center",
+          "slide_height": "original-height",
+          "button_size": "normal"
+        }
+      },
+      "rich-text": {
+        "type": "rich-text",
+        "settings": {
+          "layout": "split",
+          "subheading": "Humble Beginnings",
+          "title": "Modular is a powerful Shopify theme that will set you apart from the rest.",
+          "content": "<p>It features ample space to showcase your imagery with Mosaic, Image with text, and Slideshow sections ... and even this Rich Text section itself.<\/p>",
+          "button_text": "Learn More",
+          "button_style": "primary"
+        }
+      },
+      "image-with-text": {
+        "type": "image-with-text",
+        "disabled": true,
+        "blocks": {
+          "image-with-text-0": {
+            "type": "gallery_image",
+            "settings": {
+            }
+          }
+        },
+        "block_order": [
+          "image-with-text-0"
+        ],
+        "settings": {
+          "bg_color_check": false,
+          "bg_color": "#f7f7f7",
+          "show_nav_arrows": false,
+          "color_style": "white",
+          "transition": "fade",
+          "autoplay": false,
+          "duration": 4,
+          "show_margins": false,
+          "slide_height": "sixty-fifty-height-hero",
+          "slide_image_position": "right",
+          "slide_image_width": "med_s12|med_s12",
+          "subheading": "acerca de",
+          "title": "Quiénes somos",
+          "content": "<p><strong>Fundado en 1999 por Yann Rougier, experto en nutrición<\/strong><\/p><p>Forté Pharma es un laboratorio experto y multiespecialista en complementos alimenticios. Desde hace más de 20 años, nuestros equipos de expertos científicos, médicos, farmacéuticos y nutricionistas, desarrollan fórmulas innovadoras combinando ciencia y naturalidad. <\/p>",
+          "cta": "Más información",
+          "link": "https:\/\/fortepharmashop-fr.myshopify.com\/",
+          "button_style": "primary"
+        }
+      },
+      "featured-collection": {
+        "type": "featured-collection",
+        "disabled": true,
+        "settings": {
+          "title": "",
+          "featured_collection": "frontpage",
+          "show_description": false,
+          "products_layout": "carousel",
+          "products_rows": 2,
+          "show_button": true,
+          "button_style": "primary",
+          "color_style": "black"
+        }
+      },
+      "list-collections": {
+        "type": "list-collections",
+        "blocks": {
+          "list-collections-0": {
+            "type": "collection",
+            "settings": {
+              "collection": "",
+              "image": ""
+            }
+          },
+          "list-collections-1": {
+            "type": "collection",
+            "settings": {
+              "collection": "",
+              "image": ""
+            }
+          },
+          "list-collections-2": {
+            "type": "collection",
+            "settings": {
+              "collection": "",
+              "image": ""
+            }
+          },
+          "list-collections-3": {
+            "type": "collection",
+            "settings": {
+              "collection": "",
+              "image": ""
+            }
+          },
+          "list-collections-4": {
+            "type": "collection",
+            "settings": {
+              "collection": "",
+              "image": ""
+            }
+          }
+        },
+        "block_order": [
+          "list-collections-0",
+          "list-collections-1",
+          "list-collections-2",
+          "list-collections-3",
+          "list-collections-4"
+        ],
+        "settings": {
+          "title": "",
+          "blocks_height": "default-height",
+          "coll_text_position": "bottom_left",
+          "show_description": true,
+          "text_color": "#ffffff",
+          "overlay_color": "#222222",
+          "overlay_opacity": 10
+        }
+      },
+      "testimonials": {
+        "type": "testimonials",
+        "blocks": {
+          "testimonials-0": {
+            "type": "testimonial",
+            "settings": {
+              "blockquote": "Use this testimonial as an opportunity for your most valued customer to discuss your brand and what sets you apart from the competition. This section looks best when limited to two or three lines!",
+              "author": "John Doe"
+            }
+          },
+          "testimonials-1": {
+            "type": "testimonial",
+            "settings": {
+              "blockquote": "Use this testimonial as an opportunity for your most valued customer to discuss your brand and what sets you apart from the competition. This section looks best when limited to two or three lines!",
+              "author": "John Doe"
+            }
+          },
+          "testimonials-2": {
+            "type": "testimonial",
+            "settings": {
+              "blockquote": "Use this testimonial as an opportunity for your most valued customer to discuss your brand and what sets you apart from the competition. This section looks best when limited to two or three lines!",
+              "author": "John Doe"
+            }
+          }
+        },
+        "block_order": [
+          "testimonials-0",
+          "testimonials-1",
+          "testimonials-2"
+        ],
+        "settings": {
+          "title": "",
+          "title_position": "left",
+          "blocks_text_align": "justify",
+          "hide_quotes": false,
+          "columns": 3
+        }
+      },
+      "featured-blog": {
+        "type": "featured-blog",
+        "settings": {
+          "heading": "",
+          "text": "",
+          "cta": "Read More",
+          "button_style": "primary",
+          "tags": true,
+          "author": true,
+          "date": true,
+          "show_comments": true,
+          "image_aspect_ratio": 0.7,
+          "article_rows": 1,
+          "article_columns": 3
+        }
+      },
+      "logo-list": {
+        "type": "logo-list",
+        "blocks": {
+          "logo-list-0": {
+            "type": "item_logo",
+            "settings": {
+            }
+          },
+          "logo-list-1": {
+            "type": "item_logo",
+            "settings": {
+            }
+          },
+          "logo-list-2": {
+            "type": "item_logo",
+            "settings": {
+            }
+          },
+          "logo-list-3": {
+            "type": "item_logo",
+            "settings": {
+            }
+          },
+          "logo-list-4": {
+            "type": "item_logo",
+            "settings": {
+            }
+          }
+        },
+        "block_order": [
+          "logo-list-0",
+          "logo-list-1",
+          "logo-list-2",
+          "logo-list-3",
+          "logo-list-4"
+        ],
+        "settings": {
+          "color_logos_bg": ""
+        }
+      },
+      "newsletter": {
+        "type": "newsletter",
+        "settings": {
+          "color": "#ffffff",
+          "background": "#1ca3a4",
+          "top_subheading": "",
+          "title": "SUSCRÍBETE A NUESTRO NEWSLETTER",
+          "content": "<p>¿Quieres estar a la última? No te pierdas las últimas novedades de Forte Pharma, los lanzamientos de producto, las noticias de interés y ¡mucho más!<br\/><\/p>"
+        }
+      },
+      "faq-section__product": {
+        "type": "faq-section__product",
+        "blocks": {
+          "f56337f1-104f-48f5-bed0-3c0e21c70431": {
+            "type": "item",
+            "settings": {
+              "title": "Question",
+              "answer": "<p>Use this answer block to discuss some commonly asked questions you&#x27;ve discovered from your customers interactions. You could discuss product details, size fit, shipping policies, or anything you think would help merchants make an informed decision about your product or collection. This section will appear across all products.<\/p>"
+            }
+          },
+          "43984b75-a554-47db-9b82-6b39e3b68c70": {
+            "type": "item",
+            "settings": {
+              "title": "Question",
+              "answer": "<p>Use this answer block to discuss some commonly asked questions you&#x27;ve discovered from your customers interactions. You could discuss product details, size fit, shipping policies, or anything you think would help merchants make an informed decision about your product or collection. This section will appear across all products.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "f56337f1-104f-48f5-bed0-3c0e21c70431",
+          "43984b75-a554-47db-9b82-6b39e3b68c70"
+        ],
+        "settings": {
+          "title": "FAQ",
+          "subheading": ""
+        }
+      },
+      "related-products": {
+        "type": "related-products",
+        "settings": {
+          "related_products_enable": true,
+          "product_recommendations_heading": "Related",
+          "title_color": "#ffffff",
+          "product_recommendations_subheading": "Subheading",
+          "sub_title_color": "#ffffff",
+          "background_image": "shopify:\/\/shop_images\/slider_background_6d8f85df-143c-4282-8fb1-279610565325.png",
+          "button_name": "Plus de produits",
+          "button_url": "shopify:\/\/collections",
+          "enable_carousel": true
+        }
+      },
+      "page-template": {
+        "type": "page-template",
+        "settings": {
+          "show_page_title": true
+        }
+      },
+      "16146916391fb76963": {
+        "type": "icons-row",
+        "disabled": true,
+        "blocks": {
+          "16146916391fb76963-0": {
+            "type": "text",
+            "settings": {
+              "icon_name": "basket",
+              "icon_image": "shopify:\/\/shop_images\/Multi-Expertises.png",
+              "title": "Multiexperiencia",
+              "content": "Experiencia en todos los ámbitos de complementos alimenticios"
+            }
+          },
+          "16146916391fb76963-1": {
+            "type": "text",
+            "settings": {
+              "icon_name": "eye",
+              "icon_image": "shopify:\/\/shop_images\/Qualite.png",
+              "title": "Calidad",
+              "content": "Laboratorio farmacéutico desde hace más de 20 años que cumple con estrictos criterios de calidad"
+            }
+          },
+          "16146916391fb76963-2": {
+            "type": "text",
+            "settings": {
+              "icon_name": "lock",
+              "icon_image": "shopify:\/\/shop_images\/Naturalite.png",
+              "title": "Naturalidad",
+              "content": "Productos naturales para la salud, a base de plantas, vitaminas, minerales y oligoelementos"
+            }
+          },
+          "d5216bce-71f6-46d2-83aa-f605c7ddda20": {
+            "type": "text",
+            "settings": {
+              "icon_name": "shop",
+              "icon_image": "shopify:\/\/shop_images\/Innovation.png",
+              "title": "Innovación",
+              "content": "Fórmulas idealmente equilibradas, completas e innovadoras, desarrolladas por expertos científicos"
+            }
+          }
+        },
+        "block_order": [
+          "16146916391fb76963-0",
+          "16146916391fb76963-1",
+          "16146916391fb76963-2",
+          "d5216bce-71f6-46d2-83aa-f605c7ddda20"
+        ],
+        "settings": {
+          "grid-setting": "col4",
+          "alignment": "left",
+          "color_icons_bg": "#ffffff",
+          "color_icons_text": "#2e3234"
+        }
+      },
+      "1614692051ad0045fc": {
+        "type": "featured-collection",
+        "settings": {
+          "title": "Productos destacados",
+          "title_color": "#ffffff",
+          "sub_title": "Nuestra selección",
+          "sub_title_color": "#ffffff",
+          "featured_collection": "todos-los-productos",
+          "featured_collection_img": "shopify:\/\/shop_images\/slider_background_6d8f85df-143c-4282-8fb1-279610565325.png",
+          "show_description": false,
+          "products_layout": "carousel",
+          "products_rows": 1,
+          "show_button": true,
+          "button_style": "secondary",
+          "color_style": "black",
+          "show_button_text": "Ver todo",
+          "show_button_link": "https:\/\/es.fortepharma.com\/collections\/all"
+        }
+      },
+      "1614692520dbcb9a26": {
+        "type": "mosaic",
+        "disabled": true,
+        "blocks": {
+          "16146925209f359116-0": {
+            "type": "text",
+            "settings": {
+              "title": "NUESTRA SELECCIÓN",
+              "subheading": "es la vuelta al cole",
+              "text": "Las vacaciones se acaban... ¡pero no hay que deprimirse!\nFalta de energía, baja moral, baja inmunidad... tenemos justo lo que necesita.",
+              "button_label": "descubre nuestra selección",
+              "button_link": "",
+              "button_style": "primary"
+            }
+          },
+          "942d5a5d-9dbd-4079-84c3-4dd97ca17e1e": {
+            "type": "product",
+            "settings": {
+              "product": "turbodraine",
+              "overlay_color": "#e70000",
+              "overlay_opacity": 0
+            }
+          },
+          "bc8db18f-4e29-422e-a900-c94e9b24e2cd": {
+            "type": "product",
+            "settings": {
+              "product": "expert-anti-chute",
+              "overlay_color": "#333333",
+              "overlay_opacity": 0
+            }
+          }
+        },
+        "block_order": [
+          "16146925209f359116-0",
+          "942d5a5d-9dbd-4079-84c3-4dd97ca17e1e",
+          "bc8db18f-4e29-422e-a900-c94e9b24e2cd"
+        ],
+        "settings": {
+          "image_position": "left",
+          "hide_image_mobile": false,
+          "overlay_color": "#333333",
+          "overlay_opacity": 0,
+          "image_text": "",
+          "image_link": "",
+          "blocks_height": "default-height",
+          "blocks_layout": "offset",
+          "text_color": "black"
+        }
+      },
+      "16146931345ed0ef97": {
+        "type": "icons-row",
+        "disabled": true,
+        "blocks": {
+          "16146931351d26b8af-0": {
+            "type": "text",
+            "settings": {
+              "icon_name": "shop",
+              "title": "Envío gratis",
+              "content": "a partir de 45 € de compra"
+            }
+          },
+          "16146931351d26b8af-1": {
+            "type": "text",
+            "settings": {
+              "icon_name": "phone",
+              "title": "pago seguro",
+              "content": "Con tarjeta de crédito o Paypal"
+            }
+          },
+          "603b8da1-ebe2-466f-a659-8481e84002ba": {
+            "type": "text",
+            "settings": {
+              "icon_name": "shop",
+              "title": "servicio al cliente",
+              "content": "Necesitas ayuda?\nPonte en contacto con nosotros :)"
+            }
+          },
+          "c9543802-3d03-4120-bd71-45d384388973": {
+            "type": "text",
+            "settings": {
+              "icon_name": "shop",
+              "title": "chat online",
+              "content": "De lunes a viernes. Respondemos a tus preguntas."
+            }
+          }
+        },
+        "block_order": [
+          "16146931351d26b8af-0",
+          "16146931351d26b8af-1",
+          "603b8da1-ebe2-466f-a659-8481e84002ba",
+          "c9543802-3d03-4120-bd71-45d384388973"
+        ],
+        "settings": {
+          "grid-setting": "col4",
+          "alignment": "center",
+          "color_icons_bg": "#ffffff",
+          "color_icons_text": "#333333"
+        }
+      },
+      "custom_faq_section": {
+        "type": "custom_faq_section",
+        "settings": {
+        }
+      },
+      "icons-row": {
+        "type": "icons-row",
+        "blocks": {
+          "c9bf94c1-d11a-4d0a-b5d8-a646174c8d9a": {
+            "type": "text",
+            "disabled": true,
+            "settings": {
+              "icon_name": "shop",
+              "icon_image": "shopify:\/\/shop_images\/icon_row_example-2.png",
+              "title": "Feature",
+              "content": "Modular is a powerful Shopify theme that will set you apart from the rest with Mosaic, Image with text, and Slideshow sections."
+            }
+          },
+          "cb104abf-65cf-4d0d-ac5b-6981fbdf267b": {
+            "type": "text",
+            "disabled": true,
+            "settings": {
+              "icon_name": "shop",
+              "icon_image": "shopify:\/\/shop_images\/icon_row_example.png",
+              "title": "Feature",
+              "content": "Modular is a powerful Shopify theme that will set you apart from the rest with Mosaic, Image with text, and Slideshow sections."
+            }
+          },
+          "7d4c81fe-8f58-4067-89b4-7bf8cfea6819": {
+            "type": "text",
+            "disabled": true,
+            "settings": {
+              "icon_name": "shop",
+              "icon_image": "shopify:\/\/shop_images\/icon_row_example-2.png",
+              "title": "Feature",
+              "content": "Modular is a powerful Shopify theme that will set you apart from the rest with Mosaic, Image with text, and Slideshow sections."
+            }
+          }
+        },
+        "block_order": [
+          "c9bf94c1-d11a-4d0a-b5d8-a646174c8d9a",
+          "cb104abf-65cf-4d0d-ac5b-6981fbdf267b",
+          "7d4c81fe-8f58-4067-89b4-7bf8cfea6819"
+        ],
+        "settings": {
+          "grid-setting": "col3",
+          "alignment": "center",
+          "color_icons_bg": "#fafafa",
+          "color_icons_text": "#333333"
+        }
+      },
+      "16245476774aafb3cd": {
+        "type": "section-editorial",
+        "disabled": true,
+        "blocks": {
+          "0ddfd8a8-0ab3-410a-b0ce-e2306bdb7b16": {
+            "type": "article",
+            "settings": {
+              "article_title": "Titulo 1",
+              "article_discription": "<p><strong>Lorem Ipsum<\/strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, <\/p>",
+              "article_button_text": "Ver más",
+              "article_button_link": "shopify:\/\/blogs\/news"
+            }
+          },
+          "6ae4d84a-f503-49ee-9f76-fc4bc080395c": {
+            "type": "article",
+            "settings": {
+              "article_title": "Titulo 2",
+              "article_discription": "<p><strong>Lorem Ipsum<\/strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, <\/p>",
+              "article_button_text": "Ver más",
+              "article_button_link": "shopify:\/\/blogs\/news"
+            }
+          },
+          "2fd67458-26a9-45ed-9dab-c3fe0c2e3c30": {
+            "type": "article",
+            "settings": {
+              "article_title": "Titulo 3",
+              "article_discription": "<p><strong>Lorem Ipsum<\/strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, <\/p>",
+              "article_button_text": "Ver más",
+              "article_button_link": "shopify:\/\/blogs\/news"
+            }
+          },
+          "76221101-ef69-4051-839d-707e2c413616": {
+            "type": "article",
+            "settings": {
+              "article_title": "Titulo 4",
+              "article_discription": "<p><strong>Lorem Ipsum<\/strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, <\/p>",
+              "article_button_text": "Ver más",
+              "article_button_link": "shopify:\/\/blogs\/news"
+            }
+          },
+          "ac4b15cb-2f46-4370-b9dc-a52e9b69132a": {
+            "type": "article",
+            "settings": {
+              "article_title": "Titulo 5",
+              "article_discription": "<p><strong>Lorem Ipsum<\/strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, <\/p>",
+              "article_button_text": "Ver más",
+              "article_button_link": "shopify:\/\/collections"
+            }
+          }
+        },
+        "block_order": [
+          "0ddfd8a8-0ab3-410a-b0ce-e2306bdb7b16",
+          "6ae4d84a-f503-49ee-9f76-fc4bc080395c",
+          "2fd67458-26a9-45ed-9dab-c3fe0c2e3c30",
+          "76221101-ef69-4051-839d-707e2c413616",
+          "ac4b15cb-2f46-4370-b9dc-a52e9b69132a"
+        ],
+        "settings": {
+          "heading": "Tus necesidades",
+          "text": "nuestros consejos para"
+        }
+      },
+      "section-top-banner": {
+        "type": "section-top-banner",
+        "settings": {
+          "heading_color": "#e70000",
+          "heading": "",
+          "subheading": ""
+        }
+      },
+      "instagram-section": {
+        "type": "instagram-section",
+        "settings": {
+          "subheading": "",
+          "title": "",
+          "html": ""
+        }
+      },
+      "162617274814a3ea4d": {
+        "type": "instagram-section",
+        "disabled": true,
+        "settings": {
+          "subheading": "Instragram",
+          "title": "Síguenos",
+          "html": "<div id=\"instagram-feed-box\"><\/div>"
+        }
+      },
+      "contact-template": {
+        "type": "contact-template",
+        "blocks": {
+          "5329ea5a-57a4-496b-8940-babe206c1dc6": {
+            "type": "radio",
+            "settings": {
+              "title": "Je suis :",
+              "label-one": "Un professionnel",
+              "label-two": "Un particulier",
+              "label-three": "",
+              "label-four": "",
+              "label-five": "",
+              "label-six": ""
+            }
+          },
+          "e862efa2-ee1c-47f9-a959-6ea015e12aaa": {
+            "type": "select",
+            "settings": {
+              "title": "",
+              "label-one": "Choisir un pays",
+              "label-two": "France",
+              "label-three": "Select option three",
+              "label-four": "Quelle est la raison de votre",
+              "label-five": "Select option five",
+              "label-six": "Select option six"
+            }
+          },
+          "f2b10b25-4379-4c13-862b-cde6b4458068": {
+            "type": "telephone",
+            "settings": {
+              "title": "Phone Number"
+            }
+          },
+          "ca0c4173-028d-4b6c-87f6-f6318873c326": {
+            "type": "checkbox",
+            "settings": {
+              "title": "J'accepte les conditions générales d'utilisation"
+            }
+          }
+        },
+        "block_order": [
+          "5329ea5a-57a4-496b-8940-babe206c1dc6",
+          "e862efa2-ee1c-47f9-a959-6ea015e12aaa",
+          "f2b10b25-4379-4c13-862b-cde6b4458068",
+          "ca0c4173-028d-4b6c-87f6-f6318873c326"
+        ],
+        "settings": {
+          "show_page_title": true,
+          "banner_height": "small",
+          "banner_subheading": "",
+          "banner_text": "",
+          "banner_text_position": "center",
+          "banner_color_text": "#ffffff",
+          "banner_color_overlay": "#333333",
+          "banner_overlay_opacity": 0,
+          "form_heading": "Fortépharma vous répond"
+        }
+      },
+      "section-stikcy-tab": {
+        "type": "section-stikcy-tab",
+        "settings": {
+          "bg_color": "#e73439",
+          "tab1": "",
+          "tab2": "",
+          "tab3": "",
+          "tab4": "",
+          "tab5": ""
+        }
+      },
+      "text-with-grid-section": {
+        "type": "text-with-grid-section",
+        "settings": {
+          "enable_bg_color": false,
+          "bg_color": "",
+          "title": "",
+          "html_code1": "",
+          "left_title_1": "",
+          "html_code2": "",
+          "left_title_2": "",
+          "html_code3": "",
+          "right_title_1": "",
+          "html_code4": "",
+          "right_title_2": "",
+          "html_code5": ""
+        }
+      },
+      "section-related-products": {
+        "type": "section-related-products",
+        "settings": {
+          "product_recommendations_heading1": "TU PROGRAMA",
+          "title_color1": "#ffffff",
+          "product_recommendations_subheading1": "COMPLETA",
+          "sub_title_color1": "#ffffff",
+          "button_title": "Ver todos los productos",
+          "button_link": "shopify:\/\/collections",
+          "background_color": "#1ca3a4"
+        }
+      },
+      "16263807570f3c5934": {
+        "type": "diagnostic-section",
+        "disabled": true,
+        "settings": {
+          "bg_color_enable": true,
+          "bg_color": "#e73439",
+          "title": "nuestro diagnóstico",
+          "subtitle": "¿necesitas asesoramiento?",
+          "detail": "<p>Cuéntanos más sobre ti y tu problema para que podamos orientarte y ofrecerte los productos más adecuados.<\/p>",
+          "detail_1": "Su diagnóstico personalizado en 2 minutos",
+          "svg_icon_name": "diag_minceur",
+          "icon1_link": "#",
+          "icon1": "Adelgazante",
+          "icon1_des": "Objetivo para perder peso",
+          "svg_icon_name2": "diag_energie",
+          "icon2_link": "#",
+          "icon2": "Energía",
+          "icon2_des": "¿Necesitas un empujón?",
+          "svg_icon_name3": "diag_sommeil",
+          "icon3_link": "",
+          "icon3": "Sueño y estrés",
+          "icon3_des": "Noche suave y serena",
+          "svg_icon_name4": "diag_beaute",
+          "icon4_link": "#",
+          "icon4": "Belleza",
+          "icon4_des": "Cabello, piel, bronceado",
+          "svg_icon_name5": "diag_muscle",
+          "icon5_link": "#",
+          "icon5": "Articulaciones y músculos",
+          "icon5_des": "Para una mayor comodidad en la vida cotidiana",
+          "svg_icon_name6": "diag_beaute",
+          "icon6_link": "#",
+          "icon6": "Tránsito",
+          "icon6_des": "¡Mima tu tripa!",
+          "button_text": "Iniciar el diagnóstico",
+          "button_link": "#"
+        }
+      },
+      "faq-template": {
+        "type": "faq-template",
+        "blocks": {
+          "35f7f03b-0816-47d9-88c9-6b0b2ec8cf40": {
+            "type": "item",
+            "settings": {
+              "title": "¿Cómo puedo hacer el seguimiento de mi pedido ?",
+              "answer": "<p>Para ver en qué punto se encuentra tu pedido, puedes ir directamente a la página \"Seguimiento de pedidos\", o a través del enlace de confirmación enviado por correo electrónico al realizar la compra.<\/p>"
+            }
+          },
+          "6693e2fe-d41e-4013-89fc-0bca8953f94e": {
+            "type": "item",
+            "settings": {
+              "title": "No he recibido un correo electrónico de confirmación de mi pedido, ¿qué debo hacer?",
+              "answer": "<p>Por favor, revisa tu carpeta de correo no deseado (carpeta de spam). Es posible que el correo electrónico de confirmación del pedido se haya recibido en esa carpeta.<br\/>Si tu pedido se creó creado con éxito, aparecerá como confirmado en tu perfil.<\/p><p><\/p>"
+            }
+          },
+          "79aca74d-2aae-46b9-a3e2-ab61d8f23bd1": {
+            "type": "item",
+            "settings": {
+              "title": "(REVISAR) ¿Puedo cancelar mi pedido?",
+              "answer": "<p>Si tu pedido aún no ha sido confirmado, puede solicitar su cancelación enviándonos un correo electrónico a <a href=\"mailto:info@fortepharma.com\" title=\"mailto:info@fortepharma.com\">info@fortepharma.com<\/a>.<br\/>Sin embargo, no es posible cancelar su pedido una vez que este haya sido realizado, ya que nuestra cadena de preparación de pedidos está completamente automatizada.<br\/>No dude en contactarnos directamente si fuera necesario.<\/p>"
+            }
+          },
+          "a513822a-f19b-464d-9750-0253ac1ba50a": {
+            "type": "item",
+            "settings": {
+              "title": "(REVISAR) No estoy satisfecho con mi (s) producto (s), ¿qué debo hacer?",
+              "answer": "<p>Puede escribirnos a la dirección de correo electrónico <a href=\"mailto:info@fortepharma.com\" target=\"_blank\">info@fortepharma.com<\/a> para comunicarnos su insatisfacción. Haremos todo lo posible para encontrar una solución.<br\/>También puede solicitar un reembolso siguiendo el procedimiento mencionado en nuestro sitio aquí (\"enlace\")<\/p>"
+            }
+          },
+          "e32912cd-6caf-4ed8-b7eb-d522504cfe20": {
+            "type": "item",
+            "settings": {
+              "title": "(REVISAR) ¿Cuál es el período de devolución? Si no se permiten devoluciones podría carecer de sentido",
+              "answer": "<p>Dispone de <strong>XYZ<\/strong> días desde la fecha de recepción de su pedido. Los gastos de devolución son su responsabilidad.<br\/><br\/>Realice el envío usando el formato que encuentra en el link \"DERECHO DE DEVOLUCIÓN\" o usando un formato en el que especifique: productos devueltos, el número de pedido, y el número de seguimiento. Para devoluciones utilice la siguiente dirección: Forté Pharma,<strong>XYZ<\/strong><\/p><p>Asegúrese que el producto se encuentre debidamente embalado y sin abrir. <\/p><p><br\/>Una vez recibido el (los) producto (s), el departamento de contabilidad le reembolsará (si se han cumplido las condiciones de devolución) de acuerdo a su método de pago. No se tendrán en cuenta devoluciones que superen el plazo de XYZ días.<\/p>"
+            }
+          },
+          "06025819-bbfb-47b9-be34-e7351759b796": {
+            "type": "item",
+            "settings": {
+              "title": "¿Cuáles son las opciones de pago disponibles?",
+              "answer": "<p>Para finalizar la compra en la tienda Forte Pharma, tienes varias opciones de pago: Visa, Visa Electron, Mastercard, Maestro, e-Carte Bleue, CB<\/p>"
+            }
+          },
+          "e4d7b1ba-053a-4058-b858-554e06ad8712": {
+            "type": "item",
+            "settings": {
+              "title": "Mi pago ha sido rechazado, ¿qué debo hacer?",
+              "answer": "<p>Te recomendamos que te pongas en contacto con tu banco para obtener más información.<br\/>No te preocupes, tu pedido no quedará registrado hasta no haber realizado el cobro. Si lo deseas, puedes volver a realizar el pedido utilizando otro método de pago.<\/p>"
+            }
+          },
+          "226b5993-9a67-42d8-8512-33115c66a50b": {
+            "type": "item",
+            "settings": {
+              "title": "¿Cuáles son los métodos y tiempos de entrega?",
+              "answer": "<p>Trabajamos con logística de Amazon para realizar los envíos. <em>El envío estándar<\/em> llega entre 1 y 3 días hábiles. <\/p>"
+            }
+          },
+          "d347fbd2-109b-4f18-8f1f-903c3fc6804b": {
+            "type": "item",
+            "settings": {
+              "title": "¿Puedo hacer pedidos al extranjero?",
+              "answer": "<p>No, esta página solamente realiza entregas a España. Si quiere realizar un pedido en el extranjero, por favor visite<\/p>"
+            }
+          },
+          "3d6e5598-6e5c-466b-88ce-d3defbcc92e1": {
+            "type": "item",
+            "settings": {
+              "title": "¿Puedo cambiar la dirección de entrega de mi pedido?",
+              "answer": "<p>No es posible cambiar su dirección de entrega una vez confirmado su pedido, no dude en contactarnos directamente si fuera necesario en <a href=\"mailto:info@fortepharma.com\" target=\"_blank\">info@fortepharma.com<\/a><br\/><\/p>"
+            }
+          },
+          "17d56bbb-9ed9-4d24-8f35-2ddcedbcca4f": {
+            "type": "item",
+            "settings": {
+              "title": "Mi(s) paquete(s) \/ mi(s) producto(s) están dañados, ¿Qué debo hacer?",
+              "answer": "<p>Por favor contáctenos en <a href=\"mailto:info@fortepharma.com\" target=\"_blank\">info@fortepharma.com<\/a>.<\/p><p>Para hacer más rápido el proceso tome una fotografía de su paquete(s) \/ producto(s) y la adjunte al correo, con el fin de poder reenviarle \/ reembolsarle los producto(s) dañado(s).<\/p>"
+            }
+          },
+          "dbbb3c05-26e5-4b5c-8284-78695ff47fb3": {
+            "type": "item",
+            "settings": {
+              "title": "Recibí un producto que no se ajusta a mi pedido, ¿Qué debo hacer?",
+              "answer": "<p>Por favor, escribe un correo<br\/>electrónico a <a href=\"mailto:info@fortepharma.com\"><span style=\"text-decoration:underline\">info@fortepharma.com<\/span><\/a>, indicando el número de pedido y adjuntando una fotografía del paquete \/ productos erróneos y adjúntala al correo. Indica también el número de pedido que podrás encontrar en el corre de confirmación de pedido.<\/p>"
+            }
+          },
+          "bd5acaf6-e747-4a0e-bed8-579784ef1d3b": {
+            "type": "item",
+            "settings": {
+              "title": "¿Cómo utilizar un vale de descuento recibido por correo electrónico?",
+              "answer": "<p>Todo lo que tiene que hacer es realizar un pedido y agregar el código recibido en el campo \"Cupón de descuento\" que aparecerá durante el proceso de compra. El descuento se aplicará automáticamente. <\/p>"
+            }
+          },
+          "0f27c102-13cf-4151-a897-e4c5fc24adaa": {
+            "type": "item",
+            "settings": {
+              "title": "¿Cómo crear una cuenta de cliente?",
+              "answer": "<p>Para crear tu cuenta de cliente en Forté Pharma, simplemente <a href=\"https:\/\/es.fortepharma.com\/account\/register\"><span style=\"text-decoration:underline\">Pincha<br\/>Aquí.<\/span><\/a> Deberás completar tus datos. Una vez cumplimentado, deberás validar el proceso pinchando en \"Activar Cuenta\" en el correo que recibas. Si no lo has recibido, por favor revisa tu correo no deseado (carpeta spam).<\/p>"
+            }
+          },
+          "b8d8c608-9e2a-46f7-8d8f-6858899d48e0": {
+            "type": "item",
+            "settings": {
+              "title": "¿Necesito estar registrado para poder realizar una compra?",
+              "answer": "<p>No, no es necesario estar registrado para poder realizar una compra. Aunque lo recomendamos para que te resulte más sencillo poder encontrar la información y el histórico de tus pedidos.<\/p>"
+            }
+          },
+          "1bc575cf-c8b9-47f0-b39b-0a8e9d039878": {
+            "type": "item",
+            "settings": {
+              "title": "No recuerdo mi contraseña, ¿cómo puedo recuperarla?",
+              "answer": "<p>Haz clic en \"Recuperar contraseña\" dentro de la página de <a href=\"https:\/\/es.fortepharma.com\/account\/login?return_url=%2Faccount\"><span style=\"text-decoration:underline\">Iniciar Sesión<\/span><\/a> y añade tu dirección de correo electrónico. Recibirás un enlace para restablecerla.<\/p>"
+            }
+          },
+          "924be503-ce91-43b5-a9ca-cdd63d78f00c": {
+            "type": "item",
+            "settings": {
+              "title": "¿Porqué mi pedido ha llegado en una caja de Amazon?",
+              "answer": "<p>Porqué Amazon es nuestro partner logístico y entrega las compras realizadas en la tienda online de Forté Pharma.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "35f7f03b-0816-47d9-88c9-6b0b2ec8cf40",
+          "6693e2fe-d41e-4013-89fc-0bca8953f94e",
+          "79aca74d-2aae-46b9-a3e2-ab61d8f23bd1",
+          "a513822a-f19b-464d-9750-0253ac1ba50a",
+          "e32912cd-6caf-4ed8-b7eb-d522504cfe20",
+          "06025819-bbfb-47b9-be34-e7351759b796",
+          "e4d7b1ba-053a-4058-b858-554e06ad8712",
+          "226b5993-9a67-42d8-8512-33115c66a50b",
+          "d347fbd2-109b-4f18-8f1f-903c3fc6804b",
+          "3d6e5598-6e5c-466b-88ce-d3defbcc92e1",
+          "17d56bbb-9ed9-4d24-8f35-2ddcedbcca4f",
+          "dbbb3c05-26e5-4b5c-8284-78695ff47fb3",
+          "bd5acaf6-e747-4a0e-bed8-579784ef1d3b",
+          "0f27c102-13cf-4151-a897-e4c5fc24adaa",
+          "b8d8c608-9e2a-46f7-8d8f-6858899d48e0",
+          "1bc575cf-c8b9-47f0-b39b-0a8e9d039878",
+          "924be503-ce91-43b5-a9ca-cdd63d78f00c"
+        ],
+        "settings": {
+          "hide_title": true,
+          "title": "Preguntas Frecuentes",
+          "subheading": "Nuestras Respuestas"
+        }
+      },
+      "anchor-menu-tab": {
+        "type": "anchor-menu-tab",
+        "settings": {
+          "title1": "",
+          "title2": "",
+          "title3": "",
+          "title4": "",
+          "title5": ""
+        }
+      },
+      "description-tab": {
+        "type": "description-tab",
+        "settings": {
+          "title": "",
+          "html_code": ""
+        }
+      },
+      "block-text-with-table": {
+        "type": "block-text-with-table",
+        "settings": {
+          "title": "",
+          "html_code": "",
+          "table_heading_1": "",
+          "table_heading_2": ""
+        }
+      },
+      "section-key-figures": {
+        "type": "section-key-figures",
+        "settings": {
+          "bg_color_enable": true,
+          "bg_color": "#e73439",
+          "title": "",
+          "num1": "",
+          "num1_title": "",
+          "num1_detail": "",
+          "num2": "",
+          "num2_title": "",
+          "num2_detail": "",
+          "num3": "",
+          "num3_title": "",
+          "num3_detail": "",
+          "detail": "<p>Tell a Story<\/p>"
+        }
+      },
+      "section-ingredients": {
+        "type": "section-ingredients",
+        "settings": {
+          "title": "",
+          "icon1_title": "",
+          "icon1_detail": "",
+          "icon2_title": "",
+          "icon2_detail": "",
+          "icon3_title": "",
+          "icon3_detail": "",
+          "detail": "Tell a Story",
+          "button_title": "",
+          "button_link": "",
+          "table_title": "",
+          "table_heading_1": "",
+          "table_heading_2": ""
+        }
+      },
+      "diagnostic-section": {
+        "type": "diagnostic-section",
+        "settings": {
+          "bg_color_enable": true,
+          "bg_color": "#e73439",
+          "title": "",
+          "subtitle": "",
+          "detail": "",
+          "detail_1": "",
+          "svg_icon_name": "diag_beaute",
+          "icon1_link": "",
+          "icon1": "",
+          "icon1_des": "",
+          "svg_icon_name2": "diag_beaute",
+          "icon2_link": "",
+          "icon2": "",
+          "icon2_des": "",
+          "svg_icon_name3": "diag_beaute",
+          "icon3_link": "",
+          "icon3": "",
+          "icon3_des": "",
+          "svg_icon_name4": "diag_beaute",
+          "icon4_link": "",
+          "icon4": "",
+          "icon4_des": "",
+          "svg_icon_name5": "diag_beaute",
+          "icon5_link": "",
+          "icon5": "",
+          "icon5_des": "",
+          "svg_icon_name6": "diag_beaute",
+          "icon6_link": "",
+          "icon6": "",
+          "icon6_des": "",
+          "button_text": "",
+          "button_link": ""
+        }
+      },
+      "simple-text-section": {
+        "type": "simple-text-section",
+        "settings": {
+          "enbale_bg": true,
+          "bg_color": "#f7f7f7",
+          "headign_color": "#000",
+          "subheading_color": "#000",
+          "description_color": "#000",
+          "title": "",
+          "subheading": "",
+          "description": ""
+        }
+      },
+      "section-image-right-text-left-with-table": {
+        "type": "section-image-right-text-left-with-table",
+        "settings": {
+          "title": "",
+          "description": "",
+          "table_title_1": "",
+          "table_title_2": "",
+          "table_row_left_1": "",
+          "table_row_right_1": "",
+          "table_row_left_2": "",
+          "table_row_right_2": "",
+          "table_row_left_3": "",
+          "table_row_right_3": "",
+          "table_row_left_4": "",
+          "table_row_right_4": ""
+        }
+      },
+      "162756688405c0d070": {
+        "type": "list-collections",
+        "blocks": {
+          "162756688405c0d070-0": {
+            "type": "collection",
+            "settings": {
+              "collection": "control-de-peso-y-eliminacion-de-liquidos"
+            }
+          },
+          "162756688405c0d070-1": {
+            "type": "collection",
+            "settings": {
+              "collection": "detox"
+            }
+          },
+          "162756688405c0d070-2": {
+            "type": "collection",
+            "settings": {
+              "collection": "salud-de-la-piel-y-antiedad"
+            }
+          },
+          "162756688405c0d070-3": {
+            "type": "collection",
+            "settings": {
+              "collection": "cabello-y-unas"
+            }
+          },
+          "162756688405c0d070-4": {
+            "type": "collection",
+            "settings": {
+              "collection": "sueno-y-estres"
+            }
+          }
+        },
+        "block_order": [
+          "162756688405c0d070-0",
+          "162756688405c0d070-1",
+          "162756688405c0d070-2",
+          "162756688405c0d070-3",
+          "162756688405c0d070-4"
+        ],
+        "settings": {
+          "title": "",
+          "subtitle": "",
+          "blocks_height": "full-height",
+          "coll_text_position": "center",
+          "show_description": true,
+          "button_text": "Más información",
+          "button_style": "primary",
+          "text_color": "#ffffff",
+          "overlay_color": "#333333",
+          "overlay_opacity": 35
+        }
+      },
+      "about-template": {
+        "type": "about-template",
+        "blocks": {
+          "8c1b0a9c-ee26-41b6-9f08-b4e9c3c01d42": {
+            "type": "banner",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Bandeau-categorie_1024x_c2c9c38b-322f-4d8c-a1fa-ec22ca545f89.png",
+              "height": "original-height",
+              "subheading": "",
+              "title": "Sobre Nosotros",
+              "text": "",
+              "text_position": "center",
+              "color_text": "#e70000",
+              "color_overlay": "#333333",
+              "overlay_opacity": 0
+            }
+          },
+          "9cfcb07f-8abb-4cb6-a84b-f1e5a18cd856": {
+            "type": "banner",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/teletrabajo-y-salud-905x613.jpg",
+              "height": "normal",
+              "subheading": "",
+              "title": "Welcome to Modular",
+              "text": "<p>A unique layout with a striking design<\/p>",
+              "text_position": "center",
+              "color_text": "#ffffff",
+              "color_overlay": "#333333",
+              "overlay_opacity": 0
+            }
+          },
+          "37a30cb8-36b3-464a-b2e4-96ee18d6f91c": {
+            "type": "rich-text",
+            "disabled": true,
+            "settings": {
+              "layout": "default",
+              "subheading": "À PROPOS",
+              "title": "",
+              "content": "<p><\/p><p><\/p><p>Depuis plus de 20 ans, nos équipes d'experts scientifiques, médecins, pharmaciens et nutritionnistes, développent pour vous des formules innovantes en alliant science et naturalité.<\/p><p><br\/><br\/><\/p>",
+              "button_text": "En savoir Plus",
+              "button_link": "",
+              "button_style": "primary"
+            }
+          },
+          "a053144d-e93f-4c18-9366-67903b7994d5": {
+            "type": "rich-text",
+            "disabled": true,
+            "settings": {
+              "layout": "split",
+              "subheading": "",
+              "title": "Describe your products or brand in detail here",
+              "content": "<p>Modular is a powerful Shopify theme that will set you apart from the rest. It features ample space to showcase your imagery with Mosaic, Image with text, and Slideshow sections.<\/p>",
+              "button_text": "",
+              "button_link": "",
+              "button_style": "primary"
+            }
+          },
+          "4e294271-d4dc-415c-b039-4ea8aa735557": {
+            "type": "product-feature",
+            "settings": {
+              "title": "Quienes Somos",
+              "description": "<p><br\/><\/p><p><strong>Forté Pharma<\/strong>, fundada en 1999 por Yann Rougier, experto en nutrición, es una marca especializada en complementos alimenticios orientados a satisfacer las principales necesidades del consumidor.<\/p><p><\/p><p><\/p><p>Forté Pharma es una marca que pertenece al laboratorio español Reig Jofre desde el 31 de diciembre de 2014 (enlace web corporativa RJ)<\/p>",
+              "image": "shopify:\/\/shop_images\/Laboratoires-forte-pharma.jpg",
+              "image_aspect_ratio": 1.1,
+              "image_link": "",
+              "button_text": "Más información",
+              "button_link": "https:\/\/www.fortepharma.com\/es",
+              "button_style": "primary",
+              "blocks_alignment": "center",
+              "reverse_layout": true
+            }
+          }
+        },
+        "block_order": [
+          "8c1b0a9c-ee26-41b6-9f08-b4e9c3c01d42",
+          "9cfcb07f-8abb-4cb6-a84b-f1e5a18cd856",
+          "37a30cb8-36b3-464a-b2e4-96ee18d6f91c",
+          "a053144d-e93f-4c18-9366-67903b7994d5",
+          "4e294271-d4dc-415c-b039-4ea8aa735557"
+        ],
+        "settings": {
+          "show_page_title": false
+        }
+      },
+      "1629153302a42ae49b": {
+        "type": "slideshow",
+        "disabled": true,
+        "blocks": {
+          "1629153302a42ae49b-0": {
+            "type": "image",
+            "settings": {
+              "image_position": "top-center",
+              "alignment": "center",
+              "color_style": "white",
+              "subheading": "",
+              "title": "BLOG",
+              "text": "<p>Tu plataforma de cuidado online<\/p>",
+              "cta": "Entrar",
+              "link": "https:\/\/sdo.yoelijocuidarme.es\/?utm_source=TiendaFortePharma&utm_medium=mainmenu",
+              "cta_primary_btn_style": "primary",
+              "cta_2": "",
+              "link_2": "",
+              "cta_secondary_btn_style": "secondary",
+              "overlay_color": "#333333",
+              "overlay_opacity": 25
+            }
+          },
+          "1629153302a42ae49b-1": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "image_position": "center-center",
+              "alignment": "center",
+              "color_style": "white",
+              "subheading": "",
+              "title": "Welcome to Modular",
+              "text": "<p>A unique layout with a striking design<\/p>",
+              "cta": "Shop Now",
+              "link": "shopify:\/\/collections\/all",
+              "cta_primary_btn_style": "primary",
+              "cta_2": "",
+              "link_2": "",
+              "cta_secondary_btn_style": "secondary",
+              "overlay_color": "#333333",
+              "overlay_opacity": 0
+            }
+          }
+        },
+        "block_order": [
+          "1629153302a42ae49b-0",
+          "1629153302a42ae49b-1"
+        ],
+        "settings": {
+          "showNavArrows": false,
+          "show_arrow_down": false,
+          "autoplay": false,
+          "duration": 4,
+          "transition": "slide",
+          "dots_position": "center",
+          "slide_height": "four-fifty-height-hero",
+          "button_size": "normal"
+        }
+      },
+      "16291535711e63b826": {
+        "type": "slideshow",
+        "disabled": true,
+        "blocks": {
+          "16291535711e63b826-0": {
+            "type": "image",
+            "settings": {
+              "image_position": "center-center",
+              "alignment": "center",
+              "color_style": "white",
+              "subheading": "",
+              "title": "control",
+              "text": "<p>de peso<\/p>",
+              "cta": "Comprar Ahora",
+              "link": "shopify:\/\/collections\/control-de-peso",
+              "cta_primary_btn_style": "primary",
+              "cta_2": "",
+              "link_2": "",
+              "cta_secondary_btn_style": "secondary",
+              "overlay_color": "#333333",
+              "overlay_opacity": 25
+            }
+          },
+          "16291535711e63b826-1": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "image_position": "center-center",
+              "alignment": "center",
+              "color_style": "white",
+              "subheading": "",
+              "title": "Welcome to Modular",
+              "text": "<p>A unique layout with a striking design<\/p>",
+              "cta": "Shop Now",
+              "link": "shopify:\/\/collections\/all",
+              "cta_primary_btn_style": "primary",
+              "cta_2": "",
+              "link_2": "",
+              "cta_secondary_btn_style": "secondary",
+              "overlay_color": "#333333",
+              "overlay_opacity": 0
+            }
+          }
+        },
+        "block_order": [
+          "16291535711e63b826-0",
+          "16291535711e63b826-1"
+        ],
+        "settings": {
+          "showNavArrows": false,
+          "show_arrow_down": false,
+          "autoplay": false,
+          "duration": 4,
+          "transition": "slide",
+          "dots_position": "center",
+          "slide_height": "four-fifty-height-hero",
+          "button_size": "normal"
+        }
+      },
+      "16317340082a5daa15": {
+        "type": "list-collections",
+        "blocks": {
+          "16317340082a5daa15-0": {
+            "type": "collection",
+            "settings": {
+              "collection": "articulaciones-musculos-y-huesos"
+            }
+          },
+          "16317340082a5daa15-1": {
+            "type": "collection",
+            "settings": {
+              "collection": "defensas-e-inmunidad"
+            }
+          },
+          "16317340082a5daa15-2": {
+            "type": "collection",
+            "settings": {
+              "collection": "vitalidad-y-energia"
+            }
+          },
+          "16317340082a5daa15-3": {
+            "type": "collection",
+            "settings": {
+              "collection": "probioticos"
+            }
+          },
+          "16317340082a5daa15-4": {
+            "type": "collection",
+            "settings": {
+              "collection": "bienestar-digestivo"
+            }
+          }
+        },
+        "block_order": [
+          "16317340082a5daa15-0",
+          "16317340082a5daa15-1",
+          "16317340082a5daa15-2",
+          "16317340082a5daa15-3",
+          "16317340082a5daa15-4"
+        ],
+        "settings": {
+          "title": "",
+          "subtitle": "",
+          "blocks_height": "default-height",
+          "coll_text_position": "center",
+          "show_description": true,
+          "button_text": "Más información",
+          "button_style": "primary",
+          "text_color": "#ffffff",
+          "overlay_color": "#333333",
+          "overlay_opacity": 0
+        }
+      }
+    },
+    "content_for_index": [
+      "slideshow",
+      "16146916391fb76963",
+      "1614692051ad0045fc",
+      "1614692520dbcb9a26",
+      "16263807570f3c5934",
+      "16245476774aafb3cd",
+      "image-with-text",
+      "162617274814a3ea4d",
+      "16146931345ed0ef97",
+      "162756688405c0d070",
+      "16317340082a5daa15",
+      "16291535711e63b826",
+      "1629153302a42ae49b",
+      "newsletter"
+    ],
+    "blocks": {
+      "13057770590969753118": {
+        "type": "shopify:\/\/apps\/instafeed-instagram-feed-story\/blocks\/app-embed\/4169bff3-1d6b-44ad-9377-2ebc3d31f01c",
+        "disabled": true,
+        "settings": {
+        }
+      },
+      "6279071938380501511": {
+        "type": "shopify:\/\/apps\/form-builder-contact-form\/blocks\/app-embed\/e4bcb1eb-35b2-42e6-bc37-bfe0e1542c9d",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
+  },
+  "presets": {
+    "Chelsea": {
+      "color_heading_new": "#000000",
+      "color_text_new": "#000000",
+      "color_error_new": "#d02e2e",
+      "color_border_new": "#000000",
+      "color_background_new": "#ffffff",
+      "color_button_primary_bg": "#8dcbe9",
+      "color_button_secondary_bg": "#ffffff",
+      "color_badge_bg": "#8dcbe9",
+      "type_heading_font": "nunito_n4",
+      "type_heading_letter_spacing": 0,
+      "base_font_size": 14,
+      "type_base_font": "nunito_sans_n4",
+      "body_font_size": 14,
+      "type_base_letter_spacing": 0,
+      "transition_grid_items": true,
+      "transition_images_fade": true,
+      "transition_collections_list": true,
+      "show_search": true,
+      "image_aspect_ratio": 1,
+      "image_size": "cover",
+      "show_quick_view": true,
+      "show_quick_view_description": true,
+      "show_quantity": true,
+      "hover_image": false,
+      "enable_payment_button": true,
+      "enable_color_swatches": true,
+      "color_swatches_style": "circle",
+      "products_rows": 4,
+      "products_columns": 4,
+      "enable_video_looping": false,
+      "enable_ajax_cart": true,
+      "enable_cart_order_notes": false,
+      "show_continue_shopping": true,
+      "tax_text": "Excluding taxes and shipping",
+      "show_breadcrumbs": true,
+      "show_reviews": false,
+      "enable_yotpo": false,
+      "yotpo_ID": "",
+      "favicon": "",
+      "twitter_url": "",
+      "facebook_url": "",
+      "pinterest_url": "",
+      "instagram_url": "",
+      "tumblr_url": "",
+      "youtube_url": "",
+      "rss_url": "",
+      "share_on_twitter": true,
+      "share_on_facebook": true,
+      "share_on_pinterest": true,
+      "checkout_header_image": "",
+      "checkout_logo_image": "",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#ffffff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_accent_color": "#197bbd",
+      "checkout_button_color": "#197bbd",
+      "checkout_error_color": "#e32c2b",
+      "twitter_via": "",
+      "sections": {
+        "announcement": {
+          "type": "announcement",
+          "settings": {
+            "show_announcement": true,
+            "show_announcement_on_mobile": true,
+            "text": "<p>Broadcast sales, promos, or other offerings here<\/p>",
+            "link": ""
+          }
+        },
+        "popup": {
+          "type": "popup",
+          "settings": {
+            "show_popup": "disabled",
+            "popup_position": "left",
+            "popup_header": "Use the popup to catch emails and showcase promotions",
+            "popup_content": "<p>Popups can detract from a user's experience, so try to limit how often they appear.<\/p>",
+            "text_alignment": "left",
+            "show_popup_newsletter": true,
+            "popup_delay": 5,
+            "popup_reappear_time": "7",
+            "popup_image": ""
+          }
+        },
+        "header": {
+          "type": "header",
+          "settings": {
+            "logo": "",
+            "logo_other": "",
+            "logo_max_width": 100,
+            "show_site_name": true,
+            "menu_list": "main-menu",
+            "links_position": "links_center",
+            "logo_position": "logo_left",
+            "meganav_image": "",
+            "image_aspect_ratio": 0.7,
+            "meganav_image_heading": "",
+            "meganav_image_link": ""
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-block-menu": {
+              "type": "menu",
+              "settings": {
+                "menu": "footer",
+                "title": "Helpful Links",
+                "mobile_hide_block": true
+              }
+            },
+            "footer-block-text": {
+              "type": "text",
+              "settings": {
+                "title": "Information",
+                "text": "<p>This text block is a great place to discuss shipping policies, or terms and conditions info.<\/p>",
+                "mobile_hide_block": false
+              }
+            },
+            "footer-block-newsletter": {
+              "type": "newsletter",
+              "settings": {
+                "title": "Newsletter",
+                "content": "",
+                "mobile_hide_block": false
+              }
+            }
+          },
+          "block_order": [
+            "footer-block-menu",
+            "footer-block-text",
+            "footer-block-newsletter"
+          ],
+          "settings": {
+            "show_payment_icons": true,
+            "show_social_icons": true,
+            "menu": "",
+            "show_locale_selector": true,
+            "show_currency_selector": true
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+            "product_layout": "slideshow",
+            "image_size": "large",
+            "add_cart_position": "top",
+            "lightbox": true,
+            "show_vendor": true,
+            "show_quantity": false,
+            "show_cart_bar": true,
+            "enable_payment_button": true,
+            "show_newsletter": true,
+            "text_newsletter": "<p>Notify me when this product is available:<\/p>",
+            "page_tab_1": "",
+            "page_tab_2": "",
+            "page_tab_3": "",
+            "product_slideshow_dots": false,
+            "product_slideshow_arrows": false,
+            "enable_video_looping": false
+          }
+        },
+        "list-collections-page-template": {
+          "type": "list-collections-page-template",
+          "settings": {
+            "show_description": true,
+            "collections_columns": 2,
+            "coll_text_position": "center",
+            "button_text": "Shop Now",
+            "text_color": "#ffffff",
+            "overlay_color": "#333333",
+            "overlay_opacity": 0
+          }
+        },
+        "blog-template": {
+          "type": "blog-template",
+          "settings": {
+            "show_blog_name": false,
+            "show_rss": false,
+            "show_featured_post": true,
+            "tags": true,
+            "author": true,
+            "date": true,
+            "show_comments": true,
+            "article_rows": 4,
+            "article_columns": 4
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "show_title": true,
+            "show_sort_filter": true,
+            "filter_mode": "none",
+            "position_filters": "left",
+            "show_banner": true,
+            "banner_height": "normal",
+            "banner_text_position": "center",
+            "banner_color_text": "#ffffff",
+            "banner_color_overlay": "#333333",
+            "banner_overlay_opacity": 0,
+            "featured_image": "",
+            "featured_heading": "Use this image showcase promotional content.",
+            "featured_text": "<p>Elaborate on it with rich text<\/p>",
+            "featured_button_text": "Learn More",
+            "featured_button_link": "",
+            "featured_button_style": "primary",
+            "featured_color_text": "#ffffff",
+            "featured_color_overlay": "#333333",
+            "featured_overlay_opacity": 0
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "slideshow-0": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "image_mobile": "",
+                "image_position": "center-center",
+                "alignment": "center",
+                "color_style": "white",
+                "subheading": "",
+                "title": "Welcome to Modular",
+                "text": "<p>A unique layout with a striking design<\/p>",
+                "cta": "Learn More",
+                "link": "",
+                "cta_primary_btn_style": "primary",
+                "cta_2": "",
+                "link_2": "",
+                "cta_secondary_btn_style": "secondary",
+                "overlay_color": "#333333",
+                "overlay_opacity": 0
+              }
+            },
+            "slideshow-1": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "image_mobile": "",
+                "image_position": "center-center",
+                "alignment": "center",
+                "color_style": "white",
+                "subheading": "",
+                "title": "Welcome to Modular",
+                "text": "<p>A unique layout with a striking design<\/p>",
+                "cta": "Learn More",
+                "link": "",
+                "cta_primary_btn_style": "primary",
+                "cta_2": "",
+                "link_2": "",
+                "cta_secondary_btn_style": "secondary",
+                "overlay_color": "#333333",
+                "overlay_opacity": 0
+              }
+            }
+          },
+          "block_order": [
+            "slideshow-0",
+            "slideshow-1"
+          ],
+          "settings": {
+            "show_arrow_down": false,
+            "autoplay": true,
+            "duration": 4,
+            "transition": "zoom-out",
+            "dots_position": "center",
+            "slide_height": "five-fifty-height-hero",
+            "button_size": "normal"
+          }
+        },
+        "rich-text": {
+          "type": "rich-text",
+          "settings": {
+            "layout": "split",
+            "subheading": "Humble Beginnings",
+            "title": "Modular is a powerful Shopify theme that will set you apart from the rest.",
+            "content": "<p>It features ample space to showcase your imagery with Mosaic, Image with text, and Slideshow sections ... and even this Rich Text section itself.<\/p>",
+            "button_text": "Learn More",
+            "button_link": "",
+            "button_style": "primary"
+          }
+        },
+        "image-with-text": {
+          "type": "image-with-text",
+          "blocks": {
+            "image-with-text-0": {
+              "type": "gallery_image",
+              "settings": {
+                "slide": ""
+              }
+            },
+            "image-with-text-1": {
+              "type": "gallery_image",
+              "settings": {
+                "slide": ""
+              }
+            }
+          },
+          "block_order": [
+            "image-with-text-0",
+            "image-with-text-1"
+          ],
+          "settings": {
+            "show_nav_arrows": true,
+            "color_style": "white",
+            "transition": "fade",
+            "autoplay": true,
+            "duration": 4,
+            "show_margins": false,
+            "slide_height": "five-fifty-height-hero",
+            "slide_image_position": "left",
+            "slide_image_width": "med_s12|med_s12",
+            "subheading": "Humble Beginnings",
+            "title": "Tell a Story",
+            "content": "<p>By showcasing a product, collection, or your brand.<\/p>",
+            "cta": "Shop Now",
+            "link": "",
+            "button_style": "primary"
+          }
+        },
+        "featured-collection": {
+          "type": "featured-collection",
+          "settings": {
+            "title": "",
+            "featured_collection": "frontpage",
+            "products_layout": "grid",
+            "show_button": true,
+            "button_style": "primary",
+            "color_style": "white"
+          }
+        },
+        "list-collections": {
+          "type": "list-collections",
+          "blocks": {
+            "list-collections-0": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "list-collections-1": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "list-collections-2": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "list-collections-3": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "list-collections-4": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            }
+          },
+          "block_order": [
+            "list-collections-0",
+            "list-collections-1",
+            "list-collections-2",
+            "list-collections-3",
+            "list-collections-4"
+          ],
+          "settings": {
+            "title": "",
+            "blocks_height": "default-height",
+            "coll_text_position": "bottom_left",
+            "show_description": true,
+            "text_color": "#ffffff",
+            "overlay_color": "#333333",
+            "overlay_opacity": 0
+          }
+        },
+        "testimonials": {
+          "type": "testimonials",
+          "blocks": {
+            "testimonials-0": {
+              "type": "testimonial",
+              "settings": {
+                "blockquote": "Use this testimonial as an opportunity for your most valued customer to discuss your brand and what sets you apart from the competition. This section looks best when limited to two or three lines!",
+                "author": "John Doe"
+              }
+            },
+            "testimonials-1": {
+              "type": "testimonial",
+              "settings": {
+                "blockquote": "Use this testimonial as an opportunity for your most valued customer to discuss your brand and what sets you apart from the competition. This section looks best when limited to two or three lines!",
+                "author": "John Doe"
+              }
+            },
+            "testimonials-2": {
+              "type": "testimonial",
+              "settings": {
+                "blockquote": "Use this testimonial as an opportunity for your most valued customer to discuss your brand and what sets you apart from the competition. This section looks best when limited to two or three lines!",
+                "author": "John Doe"
+              }
+            }
+          },
+          "block_order": [
+            "testimonials-0",
+            "testimonials-1",
+            "testimonials-2"
+          ],
+          "settings": {
+            "title": "",
+            "title_position": "center",
+            "blocks_text_align": "justify",
+            "hide_quotes": false,
+            "columns": 3
+          }
+        },
+        "featured-blog": {
+          "type": "featured-blog",
+          "settings": {
+            "heading": "",
+            "text": "",
+            "cta": "Read More",
+            "button_style": "primary",
+            "tags": true,
+            "author": true,
+            "date": true,
+            "show_comments": true,
+            "image_aspect_ratio": 0.7,
+            "article_rows": 1,
+            "article_columns": 3
+          }
+        },
+        "logo-list": {
+          "type": "logo-list",
+          "blocks": {
+            "logo-list-0": {
+              "type": "item_logo",
+              "settings": {
+                "logo_image": "",
+                "logo_url": ""
+              }
+            },
+            "logo-list-1": {
+              "type": "item_logo",
+              "settings": {
+                "logo_image": "",
+                "logo_url": ""
+              }
+            },
+            "logo-list-2": {
+              "type": "item_logo",
+              "settings": {
+                "logo_image": "",
+                "logo_url": ""
+              }
+            },
+            "logo-list-3": {
+              "type": "item_logo",
+              "settings": {
+                "logo_image": "",
+                "logo_url": ""
+              }
+            },
+            "logo-list-4": {
+              "type": "item_logo",
+              "settings": {
+                "logo_image": "",
+                "logo_url": ""
+              }
+            }
+          },
+          "block_order": [
+            "logo-list-0",
+            "logo-list-1",
+            "logo-list-2",
+            "logo-list-3",
+            "logo-list-4"
+          ],
+          "settings": {
+            "color_logos_bg": ""
+          }
+        },
+        "newsletter": {
+          "type": "newsletter",
+          "settings": {
+            "color": "#333",
+            "background": "#ffffff",
+            "title": "Newsletter",
+            "content": "<p>Let's keep in touch<\/p>"
+          }
+        }
+      },
+      "content_for_index": [
+        "slideshow",
+        "rich-text",
+        "image-with-text",
+        "featured-collection",
+        "list-collections",
+        "testimonials",
+        "featured-blog",
+        "logo-list",
+        "newsletter"
+      ]
+    },
+    "Mayfair": {
+      "color_heading_new": "#2e3234",
+      "color_text_new": "#222222",
+      "color_error_new": "#e35252",
+      "color_border_new": "#e4e4e4",
+      "color_background_new": "#ffffff",
+      "color_button_primary_bg": "#ffffff",
+      "color_button_secondary_bg": "#000000",
+      "color_badge_bg": "#2e3234",
+      "type_heading_font": "harmonia_sans_n7",
+      "type_heading_letter_spacing": 0,
+      "base_font_size": 14,
+      "type_base_font": "rubik_n4",
+      "body_font_size": 14,
+      "type_base_letter_spacing": 0,
+      "transition_grid_items": true,
+      "transition_images_fade": true,
+      "transition_collections_list": true,
+      "show_search": true,
+      "image_aspect_ratio": 1.3,
+      "image_size": "cover",
+      "show_quick_view": true,
+      "show_quick_view_description": true,
+      "show_quantity": true,
+      "hover_image": false,
+      "enable_payment_button": true,
+      "enable_color_swatches": true,
+      "color_swatches_style": "circle",
+      "products_rows": 4,
+      "products_columns": 4,
+      "enable_video_looping": false,
+      "enable_ajax_cart": true,
+      "enable_cart_order_notes": false,
+      "show_continue_shopping": true,
+      "tax_text": "Excluding taxes and shipping",
+      "show_breadcrumbs": true,
+      "show_reviews": false,
+      "enable_yotpo": false,
+      "yotpo_ID": "",
+      "favicon": "",
+      "twitter_url": "",
+      "facebook_url": "",
+      "pinterest_url": "",
+      "instagram_url": "",
+      "tumblr_url": "",
+      "youtube_url": "",
+      "rss_url": "",
+      "share_on_twitter": true,
+      "share_on_facebook": true,
+      "share_on_pinterest": true,
+      "checkout_header_image": "",
+      "checkout_logo_image": "",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#ffffff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_accent_color": "#197bbd",
+      "checkout_button_color": "#197bbd",
+      "checkout_error_color": "#e32c2b",
+      "twitter_via": "",
+      "sections": {
+        "announcement": {
+          "type": "announcement",
+          "settings": {
+            "show_announcement": true,
+            "show_announcement_on_mobile": true,
+            "text": "<p>Free Shipping on Orders over $100<\/p>",
+            "link": ""
+          }
+        },
+        "popup": {
+          "type": "popup",
+          "settings": {
+            "show_popup": "disabled",
+            "popup_position": "right",
+            "popup_header": "Use the popup to catch emails and showcase promotions",
+            "popup_content": "<p>Popups can detract from a user's experience, so try to limit how often they appear.<\/p>",
+            "text_alignment": "center",
+            "show_popup_newsletter": true,
+            "popup_delay": 5,
+            "popup_reappear_time": "7",
+            "popup_image": ""
+          }
+        },
+        "header": {
+          "type": "header",
+          "settings": {
+            "logo": "",
+            "logo_other": "",
+            "logo_max_width": 100,
+            "show_site_name": true,
+            "menu_list": "main-menu",
+            "links_position": "links_left",
+            "logo_position": "logo_center",
+            "meganav_image": "",
+            "image_aspect_ratio": 0.7,
+            "meganav_image_heading": "",
+            "meganav_image_link": ""
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-block-menu": {
+              "type": "menu",
+              "settings": {
+                "menu": "footer",
+                "title": "Helpful Links",
+                "mobile_hide_block": true
+              }
+            },
+            "footer-block-text": {
+              "type": "text",
+              "settings": {
+                "title": "Information",
+                "text": "<p>This text block is a great place to discuss shipping policies, or terms and conditions info.<\/p>",
+                "mobile_hide_block": false
+              }
+            },
+            "footer-block-newsletter": {
+              "type": "newsletter",
+              "settings": {
+                "title": "Newsletter",
+                "content": "",
+                "mobile_hide_block": false
+              }
+            }
+          },
+          "block_order": [
+            "footer-block-menu",
+            "footer-block-text",
+            "footer-block-newsletter"
+          ],
+          "settings": {
+            "show_payment_icons": true,
+            "show_social_icons": true,
+            "menu": "",
+            "show_locale_selector": true,
+            "show_currency_selector": true
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+            "product_layout": "slideshow",
+            "image_size": "medium",
+            "add_cart_position": "top",
+            "lightbox": true,
+            "show_vendor": false,
+            "show_quantity": true,
+            "show_cart_bar": true,
+            "enable_payment_button": true,
+            "show_newsletter": true,
+            "text_newsletter": "<p>Notify me when this product is available:<\/p>",
+            "page_tab_1": "",
+            "page_tab_2": "",
+            "page_tab_3": "",
+            "product_slideshow_dots": false,
+            "product_slideshow_arrows": false,
+            "enable_video_looping": false
+          }
+        },
+        "list-collections-page-template": {
+          "type": "list-collections-page-template",
+          "settings": {
+            "show_description": true,
+            "collections_columns": 2,
+            "coll_text_position": "center",
+            "button_text": "View Products",
+            "text_color": "#ffffff",
+            "overlay_color": "#222222",
+            "overlay_opacity": 10
+          }
+        },
+        "blog-template": {
+          "type": "blog-template",
+          "settings": {
+            "show_blog_name": false,
+            "show_rss": false,
+            "show_featured_post": true,
+            "tags": true,
+            "author": true,
+            "date": true,
+            "show_comments": true,
+            "article_rows": 4,
+            "article_columns": 4
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "show_title": true,
+            "show_sort_filter": true,
+            "filter_mode": "group",
+            "position_filters": "left",
+            "show_banner": true,
+            "banner_height": "normal",
+            "banner_text_position": "bottom-left",
+            "banner_color_text": "#ffffff",
+            "banner_color_overlay": "#222222",
+            "banner_overlay_opacity": 10,
+            "featured_image": "",
+            "featured_heading": "Use this image showcase promotional content.",
+            "featured_text": "<p>Elaborate on it with rich text<\/p>",
+            "featured_button_text": "Learn More",
+            "featured_button_link": "",
+            "featured_button_style": "primary",
+            "featured_color_text": "#ffffff",
+            "featured_color_overlay": "#222222",
+            "featured_overlay_opacity": 10
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "slideshow-0": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "image_mobile": "",
+                "image_position": "center-center",
+                "alignment": "bottom-left",
+                "color_style": "white",
+                "subheading": "",
+                "title": "Welcome to Modular",
+                "text": "<p>A unique layout with a striking design<\/p>",
+                "cta": "Learn More",
+                "link": "",
+                "cta_primary_btn_style": "secondary",
+                "cta_2": "Shop Now",
+                "link_2": "",
+                "cta_secondary_btn_style": "secondary",
+                "overlay_color": "#222222",
+                "overlay_opacity": 10
+              }
+            },
+            "slideshow-1": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "image_mobile": "",
+                "image_position": "center-center",
+                "alignment": "center",
+                "color_style": "white",
+                "subheading": "",
+                "title": "Welcome to Modular",
+                "text": "<p>A unique layout with a striking design<\/p>",
+                "cta": "Learn More",
+                "link": "",
+                "cta_primary_btn_style": "primary",
+                "cta_2": "Shop Now",
+                "link_2": "",
+                "cta_secondary_btn_style": "secondary",
+                "overlay_color": "#222222",
+                "overlay_opacity": 10
+              }
+            }
+          },
+          "block_order": [
+            "slideshow-0",
+            "slideshow-1"
+          ],
+          "settings": {
+            "show_arrow_down": false,
+            "autoplay": true,
+            "duration": 4,
+            "transition": "fade",
+            "dots_position": "center",
+            "slide_height": "one-hundred-height-hero",
+            "button_size": "normal"
+          }
+        },
+        "rich-text": {
+          "type": "rich-text",
+          "settings": {
+            "layout": "split",
+            "subheading": "Humble Beginnings",
+            "title": "Modular is a powerful Shopify theme that will set you apart from the rest.",
+            "content": "<p>It features ample space to showcase your imagery with Mosaic, Image with text, and Slideshow sections ... and even this Rich Text section itself.<\/p>",
+            "button_text": "Learn More",
+            "button_link": "",
+            "button_style": "primary"
+          }
+        },
+        "image-with-text": {
+          "type": "image-with-text",
+          "blocks": {
+            "image-with-text-0": {
+              "type": "gallery_image",
+              "settings": {
+                "slide": ""
+              }
+            },
+            "image-with-text-1": {
+              "type": "gallery_image",
+              "settings": {
+                "slide": ""
+              }
+            }
+          },
+          "block_order": [
+            "image-with-text-0",
+            "image-with-text-1"
+          ],
+          "settings": {
+            "show_nav_arrows": true,
+            "color_style": "white",
+            "transition": "fade",
+            "autoplay": true,
+            "duration": 4,
+            "show_margins": false,
+            "slide_height": "five-fifty-height-hero",
+            "slide_image_position": "left",
+            "slide_image_width": "med_s12|med_s12",
+            "subheading": "Humble Beginnings",
+            "title": "Tell a Story",
+            "content": "<p>By showcasing a product, collection, or your brand.<\/p>",
+            "cta": "Shop Now",
+            "link": "",
+            "button_style": "primary"
+          }
+        },
+        "featured-collection": {
+          "type": "featured-collection",
+          "settings": {
+            "title": "",
+            "featured_collection": "frontpage",
+            "products_layout": "carousel",
+            "show_button": true,
+            "button_style": "primary",
+            "color_style": "black"
+          }
+        },
+        "list-collections": {
+          "type": "list-collections",
+          "blocks": {
+            "list-collections-0": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "list-collections-1": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "list-collections-2": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "list-collections-3": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "list-collections-4": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            }
+          },
+          "block_order": [
+            "list-collections-0",
+            "list-collections-1",
+            "list-collections-2",
+            "list-collections-3",
+            "list-collections-4"
+          ],
+          "settings": {
+            "title": "",
+            "blocks_height": "default-height",
+            "coll_text_position": "bottom_left",
+            "show_description": true,
+            "text_color": "#ffffff",
+            "overlay_color": "#222222",
+            "overlay_opacity": 10
+          }
+        },
+        "testimonials": {
+          "type": "testimonials",
+          "blocks": {
+            "testimonials-0": {
+              "type": "testimonial",
+              "settings": {
+                "blockquote": "Use this testimonial as an opportunity for your most valued customer to discuss your brand and what sets you apart from the competition. This section looks best when limited to two or three lines!",
+                "author": "John Doe"
+              }
+            },
+            "testimonials-1": {
+              "type": "testimonial",
+              "settings": {
+                "blockquote": "Use this testimonial as an opportunity for your most valued customer to discuss your brand and what sets you apart from the competition. This section looks best when limited to two or three lines!",
+                "author": "John Doe"
+              }
+            },
+            "testimonials-2": {
+              "type": "testimonial",
+              "settings": {
+                "blockquote": "Use this testimonial as an opportunity for your most valued customer to discuss your brand and what sets you apart from the competition. This section looks best when limited to two or three lines!",
+                "author": "John Doe"
+              }
+            }
+          },
+          "block_order": [
+            "testimonials-0",
+            "testimonials-1",
+            "testimonials-2"
+          ],
+          "settings": {
+            "title": "",
+            "title_position": "left",
+            "blocks_text_align": "justify",
+            "hide_quotes": false,
+            "columns": 3
+          }
+        },
+        "featured-blog": {
+          "type": "featured-blog",
+          "settings": {
+            "heading": "",
+            "text": "",
+            "cta": "Read More",
+            "button_style": "primary",
+            "tags": true,
+            "author": true,
+            "date": true,
+            "show_comments": true,
+            "image_aspect_ratio": 0.7,
+            "article_rows": 1,
+            "article_columns": 3
+          }
+        },
+        "logo-list": {
+          "type": "logo-list",
+          "blocks": {
+            "logo-list-0": {
+              "type": "item_logo",
+              "settings": {
+                "logo_image": "",
+                "logo_url": ""
+              }
+            },
+            "logo-list-1": {
+              "type": "item_logo",
+              "settings": {
+                "logo_image": "",
+                "logo_url": ""
+              }
+            },
+            "logo-list-2": {
+              "type": "item_logo",
+              "settings": {
+                "logo_image": "",
+                "logo_url": ""
+              }
+            },
+            "logo-list-3": {
+              "type": "item_logo",
+              "settings": {
+                "logo_image": "",
+                "logo_url": ""
+              }
+            },
+            "logo-list-4": {
+              "type": "item_logo",
+              "settings": {
+                "logo_image": "",
+                "logo_url": ""
+              }
+            }
+          },
+          "block_order": [
+            "logo-list-0",
+            "logo-list-1",
+            "logo-list-2",
+            "logo-list-3",
+            "logo-list-4"
+          ],
+          "settings": {
+            "color_logos_bg": ""
+          }
+        },
+        "newsletter": {
+          "type": "newsletter",
+          "settings": {
+            "color": "#222222",
+            "background": "#ffffff",
+            "title": "Newsletter",
+            "content": "<p>Let's keep in touch<\/p>"
+          }
+        }
+      },
+      "content_for_index": [
+        "slideshow",
+        "rich-text",
+        "image-with-text",
+        "featured-collection",
+        "testimonials",
+        "featured-blog",
+        "logo-list",
+        "newsletter"
+      ]
+    },
+    "Hoxton": {
+      "color_heading_new": "#000000",
+      "color_text_new": "#000000",
+      "color_error_new": "#d02e2e",
+      "color_border_new": "#e4e4e4",
+      "color_background_new": "#ffffff",
+      "color_button_primary_bg": "#000000",
+      "color_button_secondary_bg": "#ffffff",
+      "color_badge_bg": "#2e3234",
+      "type_heading_font": "optima_nova_n4",
+      "type_heading_letter_spacing": 0,
+      "base_font_size": 14,
+      "type_base_font": "chivo_n4",
+      "body_font_size": 14,
+      "type_base_letter_spacing": 0,
+      "transition_grid_items": true,
+      "transition_images_fade": true,
+      "transition_collections_list": true,
+      "show_search": true,
+      "image_aspect_ratio": 1,
+      "image_size": "cover",
+      "show_quick_view": true,
+      "show_quick_view_description": true,
+      "show_quantity": true,
+      "hover_image": false,
+      "enable_payment_button": true,
+      "enable_color_swatches": true,
+      "color_swatches_style": "circle",
+      "products_rows": 4,
+      "products_columns": 4,
+      "enable_video_looping": false,
+      "enable_ajax_cart": true,
+      "enable_cart_order_notes": false,
+      "show_continue_shopping": true,
+      "tax_text": "Excluding taxes and shipping",
+      "show_breadcrumbs": true,
+      "show_reviews": false,
+      "enable_yotpo": false,
+      "yotpo_ID": "",
+      "favicon": "",
+      "twitter_url": "",
+      "facebook_url": "",
+      "pinterest_url": "",
+      "instagram_url": "",
+      "tumblr_url": "",
+      "youtube_url": "",
+      "rss_url": "",
+      "share_on_twitter": true,
+      "share_on_facebook": true,
+      "share_on_pinterest": true,
+      "checkout_header_image": "",
+      "checkout_logo_image": "",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#ffffff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_accent_color": "#197bbd",
+      "checkout_button_color": "#197bbd",
+      "checkout_error_color": "#e32c2b",
+      "twitter_via": "",
+      "sections": {
+        "announcement": {
+          "type": "announcement",
+          "settings": {
+            "show_announcement": true,
+            "show_announcement_on_mobile": true,
+            "text": "<p>Broadcast sales, promos, or other offerings here<\/p>",
+            "link": ""
+          }
+        },
+        "popup": {
+          "type": "popup",
+          "settings": {
+            "show_popup": "disabled",
+            "popup_position": "left",
+            "popup_header": "Use the popup to catch emails and showcase promotions",
+            "popup_content": "<p>Popups can detract from a user's experience, so try to limit how often they appear.<\/p>",
+            "text_alignment": "left",
+            "show_popup_newsletter": true,
+            "popup_delay": 5,
+            "popup_reappear_time": "7",
+            "popup_image": ""
+          }
+        },
+        "header": {
+          "type": "header",
+          "settings": {
+            "logo": "",
+            "logo_other": "",
+            "logo_max_width": 100,
+            "show_site_name": true,
+            "menu_list": "main-menu",
+            "links_position": "links_left",
+            "logo_position": "logo_left",
+            "meganav_image": "",
+            "image_aspect_ratio": 0.7,
+            "meganav_image_heading": "",
+            "meganav_image_link": ""
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-block-menu": {
+              "type": "menu",
+              "settings": {
+                "menu": "footer",
+                "title": "Helpful Links",
+                "mobile_hide_block": true
+              }
+            },
+            "footer-block-text": {
+              "type": "text",
+              "settings": {
+                "title": "Information",
+                "text": "<p>This text block is a great place to discuss shipping policies, or terms and conditions info.<\/p>",
+                "mobile_hide_block": false
+              }
+            },
+            "footer-block-newsletter": {
+              "type": "newsletter",
+              "settings": {
+                "title": "Newsletter",
+                "content": "",
+                "mobile_hide_block": false
+              }
+            }
+          },
+          "block_order": [
+            "footer-block-menu",
+            "footer-block-text",
+            "footer-block-newsletter"
+          ],
+          "settings": {
+            "show_payment_icons": true,
+            "show_social_icons": true,
+            "menu": "",
+            "show_locale_selector": true,
+            "show_currency_selector": true
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+            "product_layout": "scrollable",
+            "image_size": "large",
+            "add_cart_position": "top",
+            "lightbox": true,
+            "show_vendor": true,
+            "show_quantity": false,
+            "show_cart_bar": true,
+            "enable_payment_button": true,
+            "show_newsletter": true,
+            "text_newsletter": "<p>Notify me when this product is available:<\/p>",
+            "page_tab_1": "",
+            "page_tab_2": "",
+            "page_tab_3": "",
+            "product_slideshow_dots": false,
+            "product_slideshow_arrows": false,
+            "enable_video_looping": false
+          }
+        },
+        "list-collections-page-template": {
+          "type": "list-collections-page-template",
+          "settings": {
+            "show_description": true,
+            "collections_columns": 2,
+            "coll_text_position": "center",
+            "button_text": "View products",
+            "text_color": "#ffffff",
+            "overlay_color": "#222222",
+            "overlay_opacity": 10
+          }
+        },
+        "blog-template": {
+          "type": "blog-template",
+          "settings": {
+            "show_blog_name": false,
+            "show_rss": false,
+            "show_featured_post": true,
+            "tags": true,
+            "author": true,
+            "date": true,
+            "show_comments": true,
+            "article_rows": 4,
+            "article_columns": 4
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "show_title": true,
+            "show_sort_filter": true,
+            "filter_mode": "group",
+            "position_filters": "left",
+            "show_banner": true,
+            "banner_height": "normal",
+            "banner_text_position": "center",
+            "banner_color_text": "#ffffff",
+            "banner_color_overlay": "#222222",
+            "banner_overlay_opacity": 10,
+            "featured_image": "",
+            "featured_heading": "Use this image showcase promotional content.",
+            "featured_text": "<p>Elaborate on it with rich text<\/p>",
+            "featured_button_text": "Learn More",
+            "featured_button_link": "",
+            "featured_button_style": "secondary",
+            "featured_color_text": "#ffffff",
+            "featured_color_overlay": "#222222",
+            "featured_overlay_opacity": 10
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "slideshow-0": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "image_mobile": "",
+                "image_position": "center-center",
+                "alignment": "left",
+                "color_style": "white",
+                "subheading": "",
+                "title": "Welcome to Modular",
+                "text": "<p>A unique layout with a striking design<\/p>",
+                "cta": "Learn More",
+                "link": "",
+                "cta_primary_btn_style": "primary",
+                "cta_2": "",
+                "link_2": "",
+                "cta_secondary_btn_style": "secondary",
+                "overlay_color": "#222222",
+                "overlay_opacity": 10
+              }
+            },
+            "slideshow-1": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "image_mobile": "",
+                "image_position": "center-center",
+                "alignment": "center",
+                "color_style": "white",
+                "subheading": "",
+                "title": "Welcome to Modular",
+                "text": "<p>A unique layout with a striking design<\/p>",
+                "cta": "Learn More",
+                "link": "",
+                "cta_primary_btn_style": "primary",
+                "cta_2": "",
+                "link_2": "",
+                "cta_secondary_btn_style": "secondary",
+                "overlay_color": "#222222",
+                "overlay_opacity": 10
+              }
+            }
+          },
+          "block_order": [
+            "slideshow-0",
+            "slideshow-1"
+          ],
+          "settings": {
+            "show_arrow_down": false,
+            "autoplay": true,
+            "duration": 4,
+            "transition": "zoom-out",
+            "dots_position": "center",
+            "slide_height": "one-hundred-height-hero",
+            "button_size": "normal"
+          }
+        },
+        "rich-text": {
+          "type": "rich-text",
+          "settings": {
+            "layout": "split",
+            "subheading": "Humble Beginnings",
+            "title": "Modular is a powerful Shopify theme that will set you apart from the rest.",
+            "content": "<p>It features ample space to showcase your imagery with Mosaic, Image with text, and Slideshow sections ... and even this Rich Text section itself.<\/p>",
+            "button_text": "Learn More",
+            "button_link": "",
+            "button_style": "primary"
+          }
+        },
+        "image-with-text": {
+          "type": "image-with-text",
+          "blocks": {
+            "image-with-text-0": {
+              "type": "gallery_image",
+              "settings": {
+                "slide": ""
+              }
+            },
+            "image-with-text-1": {
+              "type": "gallery_image",
+              "settings": {
+                "slide": ""
+              }
+            }
+          },
+          "block_order": [
+            "image-with-text-0",
+            "image-with-text-1"
+          ],
+          "settings": {
+            "show_nav_arrows": true,
+            "color_style": "white",
+            "transition": "fade",
+            "autoplay": true,
+            "duration": 4,
+            "show_margins": false,
+            "slide_height": "five-fifty-height-hero",
+            "slide_image_position": "left",
+            "slide_image_width": "med_s12|med_s12",
+            "subheading": "Humble Beginnings",
+            "title": "Tell a Story",
+            "content": "<p>By showcasing a product, collection, or your brand.<\/p>",
+            "cta": "Shop Now",
+            "link": "",
+            "button_style": "primary"
+          }
+        },
+        "featured-collection": {
+          "type": "featured-collection",
+          "settings": {
+            "title": "",
+            "featured_collection": "frontpage",
+            "products_layout": "grid",
+            "show_button": true,
+            "button_style": "primary",
+            "color_style": "white"
+          }
+        },
+        "list-collections": {
+          "type": "list-collections",
+          "blocks": {
+            "list-collections-0": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "list-collections-1": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "list-collections-2": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "list-collections-3": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "list-collections-4": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            }
+          },
+          "block_order": [
+            "list-collections-0",
+            "list-collections-1",
+            "list-collections-2",
+            "list-collections-3",
+            "list-collections-4"
+          ],
+          "settings": {
+            "title": "",
+            "blocks_height": "default-height",
+            "coll_text_position": "top_left",
+            "show_description": true,
+            "text_color": "#ffffff",
+            "overlay_color": "#222222",
+            "overlay_opacity": 10
+          }
+        },
+        "testimonials": {
+          "type": "testimonials",
+          "blocks": {
+            "testimonials-0": {
+              "type": "testimonial",
+              "settings": {
+                "blockquote": "Use this testimonial as an opportunity for your most valued customer to discuss your brand and what sets you apart from the competition. This section looks best when limited to two or three lines!",
+                "author": "John Doe"
+              }
+            },
+            "testimonials-1": {
+              "type": "testimonial",
+              "settings": {
+                "blockquote": "Use this testimonial as an opportunity for your most valued customer to discuss your brand and what sets you apart from the competition. This section looks best when limited to two or three lines!",
+                "author": "John Doe"
+              }
+            },
+            "testimonials-2": {
+              "type": "testimonial",
+              "settings": {
+                "blockquote": "Use this testimonial as an opportunity for your most valued customer to discuss your brand and what sets you apart from the competition. This section looks best when limited to two or three lines!",
+                "author": "John Doe"
+              }
+            }
+          },
+          "block_order": [
+            "testimonials-0",
+            "testimonials-1",
+            "testimonials-2"
+          ],
+          "settings": {
+            "title": "Testimonials",
+            "title_position": "left",
+            "blocks_text_align": "justify",
+            "hide_quotes": true,
+            "columns": 3
+          }
+        },
+        "featured-blog": {
+          "type": "featured-blog",
+          "settings": {
+            "heading": "",
+            "text": "",
+            "cta": "Read More",
+            "button_style": "primary",
+            "tags": true,
+            "author": true,
+            "date": true,
+            "show_comments": true,
+            "image_aspect_ratio": 0.7,
+            "article_rows": 1,
+            "article_columns": 3
+          }
+        },
+        "logo-list": {
+          "type": "logo-list",
+          "blocks": {
+            "logo-list-0": {
+              "type": "item_logo",
+              "settings": {
+                "logo_image": "",
+                "logo_url": ""
+              }
+            },
+            "logo-list-1": {
+              "type": "item_logo",
+              "settings": {
+                "logo_image": "",
+                "logo_url": ""
+              }
+            },
+            "logo-list-2": {
+              "type": "item_logo",
+              "settings": {
+                "logo_image": "",
+                "logo_url": ""
+              }
+            },
+            "logo-list-3": {
+              "type": "item_logo",
+              "settings": {
+                "logo_image": "",
+                "logo_url": ""
+              }
+            },
+            "logo-list-4": {
+              "type": "item_logo",
+              "settings": {
+                "logo_image": "",
+                "logo_url": ""
+              }
+            }
+          },
+          "block_order": [
+            "logo-list-0",
+            "logo-list-1",
+            "logo-list-2",
+            "logo-list-3",
+            "logo-list-4"
+          ],
+          "settings": {
+            "color_logos_bg": ""
+          }
+        },
+        "newsletter": {
+          "type": "newsletter",
+          "settings": {
+            "color": "#222222",
+            "background": "#ffffff",
+            "title": "Newsletter",
+            "content": "<p>Let's keep in touch<\/p>"
+          }
+        }
+      },
+      "content_for_index": [
+        "slideshow",
+        "rich-text",
+        "image-with-text",
+        "featured-collection",
+        "list-collections",
+        "testimonials",
+        "featured-blog",
+        "logo-list",
+        "newsletter"
+      ]
+    }
+  }
+}
